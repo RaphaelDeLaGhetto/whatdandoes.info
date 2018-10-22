@@ -1,0 +1,18 @@
+<html>
+<%- partial('_partial/head') %>
+<body>
+  <%- partial('_partial/header') %>
+  <main>
+    <!-- Main Content -->
+    <div class="blog-main">
+      <%- body %>
+    </div>
+    <!-- Sidebar -->
+    <div class="blog-sidebar">
+      <%- partial('_partial/sidebar') %>
+    </div>
+  </main>
+  <%- partial('_partial/footer') %>
+  <%- partial('_partial/after-footer') %>
+</body>
+</html>
