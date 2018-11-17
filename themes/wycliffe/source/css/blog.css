@@ -82,6 +82,25 @@ footer nav blockquote footer cite {
   float: right;
 }
 
+article header h2 {
+  margin-bottom: 0;
+}
+
+article header h2 + p {
+  margin: 0;
+  font-size: .75rem;
+}
+
+article header h2 a {
+  text-decoration: underline;
+  color: #2c2c2c;
+}
+
+article header h2 a:hover {
+  text-decoration: none;
+}
+
+
 @media only screen and (min-width: 48em) {
   html {
     font-size: 100%;
