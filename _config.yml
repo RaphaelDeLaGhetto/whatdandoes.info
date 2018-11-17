@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: chocobuttons.com
-subtitle: To be enjoyed in eternity...
-description: I'm a computer programmer and Wycliffe Bible Translator. This is where I share what I know about missions and writing a new story in eternity.
+title: What Dan does 
+subtitle: Cultivate biblical and computer literacy
+description: I am a computer programmer and Wycliffe Bible Translator. This website is where I share what I know about computing and the Bible. As a Bible translator, I cultivate biblical and computer literacy around the world.
 keywords:
 author: Daniel Bidulock
 language: EN
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://chocobuttons.com
+url: https://whatdandoes.info
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
