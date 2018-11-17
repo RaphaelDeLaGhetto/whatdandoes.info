@@ -4,8 +4,8 @@ services:
     image: nginx
     restart: unless-stopped
     environment:
-      - VIRTUAL_HOST=chocobuttons.com
-      - LETSENCRYPT_HOST=chocobuttons.com
+      - VIRTUAL_HOST=whatdandoes.info
+      - LETSENCRYPT_HOST=whatdandoes.info
       - LETSENCRYPT_EMAIL=daniel@example.com
     expose:
       - 80
