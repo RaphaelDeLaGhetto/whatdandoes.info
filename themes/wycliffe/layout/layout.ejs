@@ -6,9 +6,9 @@
     <!-- Main Content -->
     <%- body %>
     <!-- Sidebar -->
-    <div class="blog-sidebar">
+    <% if (!page.nosidebar) { %>
       <%- partial('_partial/sidebar') %>
-    </div>
+    <% } %>
   </main>
   <%- partial('_partial/footer') %>
   <%- partial('_partial/after-footer') %>
