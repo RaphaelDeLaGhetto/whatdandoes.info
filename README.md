@@ -1,5 +1,5 @@
-chochobuttons.com
-=================
+whatdandoes.info
+================
 
 I am a Wycliffe Bible Translator. This is my missionary blog.
 
