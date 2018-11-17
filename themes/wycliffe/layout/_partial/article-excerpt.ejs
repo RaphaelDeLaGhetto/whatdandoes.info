@@ -1,12 +1,14 @@
 <article>
-  <h2 class="blog-post-title">
-    <a href="<%- config.root %><%- item.path %>">
-      <%- item.title %>
-    </a>
-  </h2>
-  <p class="blog-post-meta">
-    <%= item.date.format(config.date_format) %>
-  </p>
+  <header>
+    <h2>
+      <a href="<%- config.root %><%- item.path %>">
+        <%- item.title %>
+      </a>
+    </h2>
+    <p class="blog-post-meta">
+      <%= item.date.format(config.date_format) %>
+    </p>
+  </header>
   <!-- Content -->
   <section>
     <%- item.excerpt || item.content %>

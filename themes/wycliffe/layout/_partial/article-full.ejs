@@ -1,15 +1,15 @@
 <article>
-  <h2 class="blog-post-title">
-    <a href="<%- config.root %><%- item.path %>">
-      <%- item.title || item.link%>
-    </a>
-  </h2>
-  <p class="blog-post-meta">
-    <%= item.date.format(config.date_format) %>
-  </p>
-  <section>
-    <%- item.content %>
-  </section>
+  <header>
+    <h2>
+      <a href="<%- config.root %><%- item.path %>">
+        <%- item.title || item.link%>
+      </a>
+    </h2>
+    <p class="blog-post-meta">
+      <%= item.date.format(config.date_format) %>
+    </p>
+  </header>
+  <%- item.content %>
   <hr />
   <%- partial('article-tags', {item: item}) %>
   <%- partial('article-categories', {item: item}) %>
