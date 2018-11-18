@@ -79,3 +79,6 @@ theme: wycliffe
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+marked:
+  breaks: false
