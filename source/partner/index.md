@@ -9,7 +9,7 @@ Join us in cultivating biblical and computer literacy around the world
 
 Will you pray about joining our Wycliffe partnership team?
 
-Claim your tile today!
+### Claim your tile today!
 
 <article class="wrapper">
   <!-- 250 -->
@@ -837,7 +837,7 @@ Claim your tile today!
   </section>
 </article>
   
-All generosity is celebrated and appreciated
+### All generosity is celebrated and appreciated
 
 <!--
 <a href="https://wycliffe.ca/projects/dan-bidulock" target="_blank">
