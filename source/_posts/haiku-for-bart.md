@@ -6,7 +6,7 @@ tags:
 ---
 Dedicated the day of his gall bladder surgey...
 
-> Chaplains' free parking
-> Involved too much paperwork
-> Haunted by regret...
+> Chaplains' free parking<br>
+> Involved too much paperwork<br>
+> Haunted by regret...<br>
 
