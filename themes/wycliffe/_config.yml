@@ -1,8 +1,8 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+#  Archives: /archives
   Blog: /blog
+  Home: /
 
 # Read More text
 excerpt_link: Read More
