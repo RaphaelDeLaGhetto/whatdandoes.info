@@ -22,7 +22,7 @@ To understand the importance of computing and the role it plays in delivering Go
 
 ### As a Bible translator, I cultivate biblical and computer literacy around the world
 
-When computing is applied in carrying out the Great Commission, a new bar is set for literacy. Not everyone will immediately understand, but everyone can [join in this work](/partner). Your generosity is powerful ammunition in enhancing and extending the Kingdom of God.
+When computing is applied in carrying out the Great Commission, a new bar is set for literacy. Not everyone will immediately understand, but everyone can [join in this work](https://wycliffe.ca/projects/dan-bidulock). Your generosity is a powerful catalyst in enhancing and extending the Kingdom of God.
 
 ### God's peace,
 
