@@ -110,6 +110,10 @@ img.logo {
   main article {
     font-size: 1.125rem;
   }
+
+  .wrapper {
+    justify-content: left;
+  }
 }
 
 @media only screen and (min-width: 60em) {
