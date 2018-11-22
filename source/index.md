@@ -20,7 +20,7 @@ Wycliffe has set out to solve a practical problem. This problems is far from mun
 
 ### I make things faster and easier 
 
-God called me to Wycliffe to serve and to help write a better story. When God fills 100% of my budget, I will likely contribute to the [Scripture Forge Project](https://scriptureforge.org/). This is a natural fit for my first assignment, as my programming specialization is _Web Application Development_. I have a made a career out of delivering software over the World Wide Web. This is only my first assignment. There are no shortage of opportunities to apply computing in carrying out the Great Commission and everyone can contribute. [Your generosity](https://wycliffe.ca/projects/dan-bidulock) is a powerful catalyst in enhancing and extending the Kingdom of God. By joining in this work, your story is told for eternity.
+God called me to Wycliffe to serve and to help write a better story. When God fills 100% of my budget, I will likely contribute to the [Scripture Forge Project](https://scriptureforge.org/). This is a natural fit for my first assignment, as my programming specialization is _Web Application Development_. I have a made a career out of delivering software over the World Wide Web. This is only my first assignment. There are no shortage of opportunities to apply computing in carrying out the Great Commission and everyone can contribute. [Your generosity](/partner) is a powerful catalyst in enhancing and extending the Kingdom of God. By joining in this work, your story is told for eternity.
 
 ### God's peace,
 
