@@ -13,7 +13,7 @@ Will you pray about joining our Wycliffe partnership team?
 
 <article class="wrapper">
   <!-- 250 -->
-  <section>
+  <section title="B & MJ">
     <!-- Brock and Merry Jo -->
     <div class="amount">
       $25
@@ -136,7 +136,7 @@ Will you pray about joining our Wycliffe partnership team?
       <button type="submit" class="donate">$25</button>
     </form>
   </section>
-  <section>
+  <section title="B & F">
     <!-- Ben and Flora -->
     <div class="amount">
       $50
@@ -433,7 +433,7 @@ Will you pray about joining our Wycliffe partnership team?
       <button type="submit" class="donate">$100</button>
     </form>
   </section>
-  <section>
+  <section title="D & M">
     <!-- Don & Marg Bowen -->
     <div class="amount">
       $100
