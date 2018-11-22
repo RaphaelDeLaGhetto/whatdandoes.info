@@ -426,13 +426,12 @@ Will you pray about joining our Wycliffe partnership team?
 
   <!-- 1000 -->
   <section>
-    <!-- Daniel & Judy Stuehrenber -->
-    <div class="amount">
-      $100
-    </div>
-    <div class="x">
-      X
-    </div>
+    <form action="https://www.wycliffe.ca/projects/dan-bidulock/"
+          enctype="multipart/form-data" method="post">
+      <input type="hidden" value="100" name="wpneo_donate_amount_field">
+      <input type="hidden" value="2984" name="add-to-cart">
+      <button type="submit" class="donate">$100</button>
+    </form>
   </section>
   <section>
     <!-- Don & Marg Bowen -->
