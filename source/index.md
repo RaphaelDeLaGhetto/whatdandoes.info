@@ -16,7 +16,7 @@ God has called me to apply my skills as a programmer in carrying out the Great C
 
 A computer programmer is a writer. In the simplest terms, programmers write instructions for machines in computer languages. As with pen and paper, computers and their languages provide a powerful mode of self expression. You need not look far to see examples. Typically, computer programmers are called to solve problems. These may be exotic problems only of interest to academics, or practical mundane problems concerning finance, administration, or organizational processes.
 
-Wycliffe has set out to solve a practical problem. This problems is far from mundane. We bring people the Scriptures so that they can read and hear God's Word in their own language. Ours is a global effort and there are countless opportunities for a programmer to solve problems. Where Scripture goes, a better story is told. The need for Good News is urgent. 
+Wycliffe has set out to solve a practical problem. This problem is far from mundane. We bring people the Scriptures so that they can read and hear God's Word in their own language. Ours is a global effort and there are countless opportunities for a programmer to solve problems. Where Scripture goes, a better story is told. The need for Good News is urgent. 
 
 ### I make things faster and easier 
 
