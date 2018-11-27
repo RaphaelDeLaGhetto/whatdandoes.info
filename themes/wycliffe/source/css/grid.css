@@ -49,6 +49,7 @@ main footer h1 {
 }
 
 .wrapper > section {
+  height: 100%;
   box-sizing: border-box;
   display: flex;
   border: 1px solid #ffa94d;
