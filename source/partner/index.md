@@ -5,7 +5,7 @@ date: 2018-11-17 15:18:05
 
 God is our provider and He is faithfully building our Wycliffe ministry partnership team.
 
-Join us in cultivating biblical and computer literacy around the world
+Join us in cultivating biblical and computer literacy around the world.
 
 Will you pray about joining our Wycliffe partnership team?
 
@@ -848,5 +848,5 @@ Will you pray about joining our Wycliffe partnership team?
 </a>
 -->
 
-Tax receipts are issued for gifts of $25 or more
+Tax receipts are issued for gifts of $25 or more.
 
