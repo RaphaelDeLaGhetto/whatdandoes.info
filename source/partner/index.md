@@ -145,13 +145,13 @@ Will you pray about joining our Wycliffe partnership team?
       X
     </div>
   </section>
-  <section>
-    <form action="https://www.wycliffe.ca/projects/dan-bidulock/"
-          enctype="multipart/form-data" method="post">
-      <input type="hidden" value="50" name="wpneo_donate_amount_field">
-      <input type="hidden" value="2984" name="add-to-cart">
-      <button type="submit" class="donate">$50</button>
-    </form>
+  <section title="Bob & Rhonda Osness">
+    <div class="amount">
+      $50
+    </div>
+    <div class="x">
+      X
+    </div>
   </section>
   <section>
     <form action="https://www.wycliffe.ca/projects/dan-bidulock/"
