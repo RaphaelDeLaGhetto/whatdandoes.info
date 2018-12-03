@@ -82,3 +82,6 @@ deploy:
 
 marked:
   breaks: false
+
+sitemap:
+  path: sitemap.xml
