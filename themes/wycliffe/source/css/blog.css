@@ -124,3 +124,31 @@ img {
     width: 88.888%;
   }
 }
+
+/* CTA */
+.cta {
+  text-align: center;
+  width: 100%;
+  position: relative;
+  background: #4E598C;
+  line-height: 3em;
+  padding: 1em;
+  color: white;
+  align-items: center;
+}
+
+.cta .btn {
+  margin: auto;
+  width: 40%;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.cta .btn:hover {
+  color: #4E598C;
+  background-color: white;
+}
+
+.cta a {
+  color: white;
+  text-decoration: none; 
+}
