@@ -4,7 +4,7 @@ date: 2018-11-17 13:16:42
 nosidebar: true
 ---
 
-### I am a computer programmer and Wycliffe Bible Translator
+### I am a computer programmer and [Wycliffe Bible Translator](https://www.wycliffe.ca/)
 
 God creates with his words <sup>[Genesis 1](https://www.biblegateway.com/passage/?search=genesis+1&version=NLT)</sup>. Christ is the Word made Flesh<sup>[John 1:1](https://www.biblegateway.com/passage/?search=John+1&version=NLT)</sup>. His Spirit is with us when our own words do not suffice<sup>[Romans 8:26](https://www.biblegateway.com/passage/?search=Romans+8&version=NLT)</sup>. We are created in the image of God and have capacity to create like God<sup>[Genesis 11:1-9](https://www.biblegateway.com/passage/?search=Genesis+11%3A1-9&version=NLT)</sup>. His image enables the author and the artist to create worlds of their own. He calls faithful servants and equips them to write a better story of the fallen world entrusted into our care.
 
