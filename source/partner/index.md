@@ -37,13 +37,14 @@ prepare the world for Christ's return.
       X
     </div>
   </section>
-  <section>
-    <form action="https://www.wycliffe.ca/projects/dan-bidulock/"
-          enctype="multipart/form-data" method="post">
-      <input type="hidden" value="25" name="wpneo_donate_amount_field">
-      <input type="hidden" value="2984" name="add-to-cart">
-      <button type="submit" class="donate">$25</button>
-    </form>
+  <section title="Peter Friesen">
+    <!-- Peter Friesen -->
+    <div class="amount">
+      $25
+    </div>
+    <div class="x">
+      X
+    </div>
   </section>
   <section>
     <form action="https://www.wycliffe.ca/projects/dan-bidulock/"
