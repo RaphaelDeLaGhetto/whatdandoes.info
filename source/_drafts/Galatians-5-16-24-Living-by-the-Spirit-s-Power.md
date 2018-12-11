@@ -8,7 +8,7 @@ tags:
 
 ## The Christmas Spirit
 
-My name is Daniel Bidulock. I am a [Wycliffe Bible Translator](https://www.wycliffe.ca/) and I got into the Christmas Spirit early this year, because for the first time ever, I sent out Christmas cards. As a Bible translator, my work is enabled by people who make donations and pledge regular financial support. I had many people to thank, because many have made generous contributions to my missionary fund. Far from being a chore, being called to say _Thank You_ to so many people is a tremendous blessing. All praise to God for bringing me this new joy at Christmas.
+The birth, death, and resurrection of Jesus Christ is proof that God loves you<sup>[John 3:16](https://www.biblegateway.com/passage/?search=john+3%3A16&version=NIV)</sup>. Remember this as you celebrate God's entry into the world as a little baby this Christmas. Our God, our Creator swaddled and lovingly placed in a manger by his mother. Worship Jesus Christ and receive the Christmas Spirit. Know love, joy, peace, kindness, and all the goodness that comes with loving your neighbour and living your love for Christ.
 
 I don't know that people talk much about the Christmas Spirit anymore. If you mention it, people will know what you mean, but may not agree about what the Christmas Spirit is. For those who celebrate Christmas as the birth of Jesus, it's safe to say the Christmas Spirit is Christ's own Holy Spirit. For those who celebrate the holidays in a different way, I couldn't say for sure... old movies give the impression that the Christmas Spirit is some vague notion of warm feelings radiating from deep inside the heart.
 
@@ -66,17 +66,17 @@ Live by the Spirit and become part of Christ's story. The Christmas Spirit is th
 
 ## Postlude
 
-My name is Daniel Bidulock. I am a Wycliffe Bible Translator. Learn more about my ministry at whatdandoes.info.
+My name is Daniel Bidulock. I am a [Wycliffe Bible Translator](https://www.wycliffe.ca/). Learn more about my ministry at [whatdandoes.info](/).
 
 Bible translation requires literacy. Literacy results in education, equality, and economy. But most important of all, Bible translation brings Christmas to people who have never heard the name of Jesus. It writes new stories in history.
 
-Reading, hearing, viewing God's Word in your own language for the first time can be life changing. A whole new world opens up to reveal Christ's message of Salvation and His promise of life eternal with Him. The celebration of Christ's birth comes alive and offers hope, faith and love to all who are willing to receive the Gift. Stories of people encountering God's Word in their own language shows best the power of the Holy Spirit reaching out through Scriptures to change lives.
+Reading, hearing, viewing God's Word in your own language for the first time can be life changing. A whole new world opens up to reveal Christ's message of Salvation and His promise of eternal life with Him. The celebration of Christ's birth comes alive and offers hope, faith and love to all who are willing to receive the Gift. Stories of people encountering God's Word in their own language shows best the power of the Holy Spirit reaching out through Scriptures to change lives.
 
 My work as a Bible transator is supported by generous people like you. I cannot do my work without your generosity. Go to whatdandoes.info and ask God about joining me and Wycliffe in prayer and financial partnership. We are not concerned with the amount you are called to give. God may tell you to pledge $200 per month, or he may tell you to pledge $5 per month. All generosity is celebrated, no matter the amount. And all generosity has a direct impact on bringing hope and improving lives all around the world. 
 
 Bible translation is foundational to carrying out the mission Christ gave to all his followers: _go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit_. Visit whatdandoes.info. Contact me, Dan Bidulock, through my website whatdandoes.info. Ask God if you can take this opportunity to be blessed. Sow generously and reap a generous reward.
 
-Thank you to Kevin Little Light of the Tsuu T'ina Nation and The Unikorn, CKLL 98.1 FM. This broadcast would not have been possible without you. Thank you to my generous supporters... friends, family, kind strangers. You have enabled me to do God's work full time. Blessings to Saint Peter's Lutheran Church in Cochrane and to all God's people in Tsuu T'ina, Calgary, and beyond.
+Thank you to Kevin Little Light of the Tsuu T'ina Nation and The Unikorn, CKLL 98.1 FM. This broadcast would not have been possible without you. Thank you to Bart, John, and Marilyn for your all your help in preparing this message. Thank you to my generous supporters... friends, family, kind strangers. You have enabled me to do God's work full time. Blessings to [Saint Peter's Lutheran Church in Cochrane](http://www.saintpeters.ca/) and to all God's people in Tsuu T'ina, Calgary, and beyond.
 
 May God show you how to take the path of joy and peace. Let go of past wrongs. Embrace the way of love, forgiveness, and grace. Be written into the good story. May you live in peace. 
 
