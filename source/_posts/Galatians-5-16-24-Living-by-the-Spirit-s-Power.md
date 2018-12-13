@@ -1,6 +1,6 @@
 ---
 title: 'Galatians 5:1,16-24, Living by the Spirit''s Power'
-date: 2018-12-05 12:50:22
+date: 2018-12-12 22:17:42
 tags:
 - preaching
 - radio
