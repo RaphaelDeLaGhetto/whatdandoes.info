@@ -66,6 +66,15 @@ The gift God gave at Christmas is beyond comprehension. Contrary to what old mov
 
 Live by the Spirit and become part of Christ's story. The Christmas Spirit is the deep-seated joy that comes from knowing that the story of the baby Jesus is true!
 
+<div class="cta">
+  <div>Spread the Christmas Spirit year round</div>
+  <a href="/partner">
+    <div class="btn">
+      Learn how &#x25B6;
+    </div>
+  </a>
+</div>
+
 ## Postlude
 
 My name is Daniel Bidulock. I am a [Wycliffe Bible Translator](https://www.wycliffe.ca/). Learn more about my ministry at [whatdandoes.info](/).
@@ -84,12 +93,4 @@ May God show you how to take the path of joy and peace. Let go of past wrongs. E
 
 Merry Christmas, 2018!
 
-<div class="cta">
-  <div>Spread the Christmas Spirit year round</div>
-  <a href="/partner">
-    <div class="btn">
-      Learn how &#x25B6;
-    </div>
-  </a>
-</div>
 
