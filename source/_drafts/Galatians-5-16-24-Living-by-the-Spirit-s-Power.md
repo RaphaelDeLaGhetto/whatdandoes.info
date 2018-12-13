@@ -18,7 +18,7 @@ Share the story and receive the Christmas Spirit. Celebrate the birth of Jesus C
 
 Of course, Jesus' birth isn't the only story we tell at Christmas. We all have our own stories. Some are happy. Some are sad. It can be hard to get into the Christmas Spirit when your own story is marked by sadness. But even a sad story can be a good one. This is the hope and joy that the Christmas Spirit brings. Live by the Spirit and a bad story becomes good.
 
-Chapter 5 of Paul's letter to the Galatians 5 says a lot about the Spirit and being oppressed by the Law. When we think Christmas, we don't usually think about the Laws of Moses. Neither do we think about the laws of Canada. It may come as a surprise that the Christmas Spirt, Christ's Holy Spirit, has anything to do with the law at all. 
+Chapter 5 of Paul's letter to the Galatians says a lot about the Spirit and being oppressed by the Law. When we think Christmas, we don't usually think about the Laws of Moses. Neither do we think about the laws of Canada. It may come as a surprise that the Christmas Spirt, Christ's Holy Spirit, has anything to do with the law at all. 
 
 ## Galatians 5:1,13-26
 
@@ -76,7 +76,7 @@ My work as a Bible transator is supported by generous people like you. I cannot 
 
 Bible translation is foundational to carrying out the mission Christ gave to all his followers: _go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit_. Visit whatdandoes.info. Contact me, Dan Bidulock, through my website whatdandoes.info. Ask God if you can take this opportunity to be blessed. Sow generously and reap a generous reward.
 
-Thank you to Kevin Little Light of the Tsuu T'ina Nation and The Unikorn, CKLL 98.1 FM. This broadcast would not have been possible without you. Thank you to Bart, John, and Marilyn for your all your help in preparing this message. Thank you to my generous supporters... friends, family, kind strangers. You have enabled me to do God's work full time. Blessings to [Saint Peter's Lutheran Church in Cochrane](http://www.saintpeters.ca/) and to all God's people in Tsuu T'ina, Calgary, and beyond.
+Thank you to Kevin Little Light of the Tsuu T'ina Nation and The Unikorn, CKLL 98.1 FM. This broadcast would not have been possible without you. Thank you to Bart, John, and Marilyn for your help in preparing this message. Thank you to my generous supporters... friends, family, kind strangers. You have enabled me to do God's work full time. Blessings to [Saint Peter's Lutheran Church in Cochrane](http://www.saintpeters.ca/) and to all God's people in Tsuu T'ina, Calgary, and beyond.
 
 May God show you how to take the path of joy and peace. Let go of past wrongs. Embrace the way of love, forgiveness, and grace. Be written into the good story. May you live in peace. 
 
