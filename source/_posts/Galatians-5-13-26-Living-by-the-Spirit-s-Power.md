@@ -48,7 +48,7 @@ Living by the Spirit - belonging to Jesus - means nailing your sinful nature to 
 
 ## Be a part of God's Story
 
-In reading this passage and praying for God's message to the Tsuu T'ina Nation and Calgary, all the talk of the Spirit fit nicely with the season. By contrast, it may seem unusual to talk so much about the Law at Christmas. For some, the Law may even play a role in their own Christmas stories. When the law gets involved, someone got hurt. Maybe families were separated. It's hard to think of good stories when the Law gets involved.
+In reading this passage and praying for God's message to Calgary, all the talk of the Spirit fit nicely with the season. By contrast, it may seem unusual to talk so much about the Law at Christmas. For some, the Law may even play a role in their own Christmas stories. When the law gets involved, someone got hurt. Maybe families were separated. It's hard to think of good stories when the Law gets involved.
 
 In Galatians Paul tells us Moses' Law has no power when we live by the Spirit. The Law only has power over those living apart from the Spirit. Unlike the Spirit, the Law cannot set us free unless it imprisoned us in the first place. It cannot protect us, because the Law only shows up when there is a victim. The Law serves only to convict us of our crimes and determine how we are to be punished.
 
@@ -87,7 +87,7 @@ My work as a Bible transator is supported by generous people like you. I cannot 
 
 Bible translation is foundational to carrying out the mission Christ gave to all his followers: _go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit_. Visit whatdandoes.info. Contact me, Dan Bidulock, through my website whatdandoes.info. Ask God if you can take this opportunity to be blessed. Sow generously and reap a generous reward.
 
-Thank you to Kevin Little Light of the Tsuu T'ina Nation and The Unikorn, CKLL 98.1 FM. This broadcast would not have been possible without you. Thank you to Bart, John, and Marilyn for your help in preparing this message. Thank you to my generous supporters... friends, family, kind strangers. You have enabled me to do God's work full time. Blessings to [Saint Peter's Lutheran Church in Cochrane](http://www.saintpeters.ca/) and to all God's people in Tsuu T'ina, Calgary, and beyond.
+Thank you to Bart, John, and Marilyn for your help in preparing this message. Thank you to my generous supporters... friends, family, kind strangers. You have enabled me to do God's work full time. Blessings to [Saint Peter's Lutheran Church in Cochrane](http://www.saintpeters.ca/) and to all God's people in Calgary, and beyond.
 
 May God show you how to take the path of joy and peace. Let go of past wrongs. Embrace the way of love, forgiveness, and grace. Be written into the good story. May you live in peace. 
 
