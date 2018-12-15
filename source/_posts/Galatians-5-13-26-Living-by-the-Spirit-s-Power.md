@@ -6,8 +6,6 @@ tags:
 - radio
 ---
 
-# [Download the MP3](https://sendadrone.ca/sermon.mp3)
-
 ## The Christmas Spirit
 
 The birth, death, and resurrection of Jesus Christ is proof that God loves you<sup>[John 3:16](https://www.biblegateway.com/passage/?search=john+3%3A16&version=NIV)</sup>. Remember this as you celebrate God's entry into the world as a little baby this Christmas. Our God, our Creator swaddled and lovingly placed in a manger by his mother. Worship Jesus Christ and receive the Christmas Spirit. Know love, joy, peace, kindness, and all the goodness that comes with loving your neighbour and living your love for Christ.
