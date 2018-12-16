@@ -108,6 +108,18 @@ img {
   width: 100%;
 }
 
+/**
+ * YouTube
+ */
+video,
+.video-container iframe {
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+
+
 @media only screen and (min-width: 48em) {
   html {
     font-size: 100%;
@@ -116,12 +128,23 @@ img {
   main article {
     font-size: 1.125rem;
   }
+
+  video,
+  .video-container iframe {
+    min-height: 380px;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
   main article {
     padding-left: 22.222%;
     width: 88.888%;
+  }
+
+  video,
+  .video-container iframe {
+    min-height: 480px;
   }
 }
 
