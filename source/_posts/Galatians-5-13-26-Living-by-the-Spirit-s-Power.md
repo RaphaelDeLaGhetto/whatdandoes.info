@@ -6,7 +6,7 @@ tags:
 - radio
 ---
 
-## [Listen on YouTube](https://youtu.be/rLZUpVjay-Q)
+## [Listen on YouTube]()
 
 ## The Christmas Spirit
 
