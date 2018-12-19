@@ -24,7 +24,7 @@ raised 100% of my financial support.
 No amount is insignificant. All generosity is celebrated. You will help 
 prepare the world for Christ's return. 
 
-### Monthly partners, choose a tile and signup today!
+### Click a tile and become a monthly partner today!
 
 {% donorGrid() %}
 
