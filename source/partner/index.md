@@ -11,6 +11,13 @@ stories about how technology is being used to build the Kingdom of God:
 
 ## You can help write stories like these
 
+### Click a tile and become a monthly partner today!
+
+{% donorGrid() %}
+
+God is our provider and He is faithfully building our Wycliffe ministry
+partnership team.
+
 ### Pray about joining our Wycliffe partnership team
 
 Your financial contribution enables me to use my skills as a computer
@@ -24,14 +31,12 @@ raised 100% of my financial support.
 No amount is insignificant. All generosity is celebrated. You will help 
 prepare the world for Christ's return. 
 
-### Click a tile and become a monthly partner today!
-
-{% donorGrid() %}
-
-God is our provider and He is faithfully building our Wycliffe ministry
-partnership team.
-
 ### Please join us in cultivating biblical and computer literacy around the world.
+
+Partnering with us is easy:
+
+- In Canada, click this link to donate: https://www.wycliffe.ca/projects/dan-bidulock/
+- In the US, click this link and follow the directions: https://www.wycliffe.org/partner/give-to-the-ministry-of-my-wycliffe-missionary
 
 Tax receipts are issued for gifts of $25 or more.
 
