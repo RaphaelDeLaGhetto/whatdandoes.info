@@ -5,6 +5,8 @@ tags:
 - children
 ---
 
+# Saint Peter's Lutheran - First Sunday in Christmas
+
 ## What is Redemption?
 
 - Have you ever broken something?
