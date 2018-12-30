@@ -14,9 +14,9 @@ The Israelite's, led by Moses, have just left Egypt in the middle of a national 
 
 This event became known as the _Passover_, because God _passed over_ the firstborn of Israel.
 
-Today's Old Testament lesson opens with God instructing Moses in the aftermath of the Passover. God tells Moses that the firstborn male of every animal and every Israelite belongs to him. God commands they be consecrated, or set apart for him.
+Today's Old Testament lesson opens with God instructing Moses in the aftermath of the first Passover. God tells Moses that the firstborn male of every animal and every Israelite belongs to him. God commands they be consecrated, or set apart for him.
 
-Moses, relays God's instruction to Israel. They are to remember the day God set them free from slavery in Egypt. They are to remember how they prepared to leave the moment the opportunity arose. Moses marks this as a day of remembrances set apart to give glory to God and to celebrate his strength in subduing Pharoah. Moses tells Israel to mark the occasion with a week-long time of worship called the _Festival of Unleavend Bread_. Passover is only one day. The festival that follows is seven days. Leaven, or yeast, isn't even allowed in the house during this time of celebration. In the desert, Israel had eaten bread made from dough they brought out of Egypt. It was unleavened because they were being driven out and could not wait <sup>Leviticus 12:39</sup>. At minimum, the prohibition on leaven serves as a reminder and teaching tool for future generations.
+Moses, relays God's instruction to Israel. They are to remember the day God set them free from slavery in Egypt. They are to remember how they prepared to leave the moment the opportunity arose. Moses marks this as a day of remembrance set apart to give glory to God and to celebrate his strength in subduing Pharoah. Moses tells Israel to mark the occasion with a week-long time of worship called the _Festival of Unleavened Bread_. Passover is only one day. The festival that follows is seven days. Leaven, or yeast, isn't even allowed in the house during this time of celebration. In the desert, Israel had eaten bread made from dough they brought out of Egypt. It was unleavened because they were being driven out and could not wait <sup>[Exodus 12:39](https://www.biblegateway.com/passage/?search=Exodus+12%3A39&version=NRSV)</sup>. At minimum, the prohibition on leaven serves as a reminder and teaching tool for future generations.
 
 Though the Israelites had left Egypt, they had not yet entered the land God promised to them. What we read in this lesson happens before Moses parts the Red Sea while being pursued by Pharaoh. Moses tells the Israelites that when God gives them the promised land of Canaan, they are to set aside their firstborn males for him. Not only the firstborn of their livestock, but their firstborn sons as well. These animals and people belong to God. The animals are to be sacrificed, with one exception... donkeys may be purchased back from God by sacrificing a sheep instead. If you do not redeem the donkey, you must break its neck. There are all sorts of ideas as to why the non-kosher donkey has this special status. Firstborn baby boys must be redeemed or presumably be dedicated to serve in the temple. 
 
@@ -34,7 +34,7 @@ The themes of freedom, truth, celebration, promise, and the fear of God flow thr
 
 ## Psalm 111
 
-Likewise, we see these themes in our other Old Testament lesson, Psalm 111. All these themes are captured in the final two verses:
+Likewise, we see these themes in our other Old Testament lesson, Psalm 111. They are captured in the final two verses:
 
 > He sent redemption to his people;
 >
