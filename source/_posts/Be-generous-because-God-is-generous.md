@@ -1,10 +1,9 @@
 ---
 title: Be generous because God is generous with you
 tags:
-  - sermon
-date: 2018-12-29 20:36:43
+- sermon
+date: 2018-12-30 09:36:43
 ---
-
 
 # Saint Peter's Lutheran - First Sunday in Christmas
 
