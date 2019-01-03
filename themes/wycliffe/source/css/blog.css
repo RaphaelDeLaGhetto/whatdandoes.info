@@ -68,6 +68,10 @@ body > footer a:hover {
   text-decoration: none;
 }
 
+article {
+  margin-bottom: 3em;
+}
+
 article blockquote p {
   font-style: italic;
 }
@@ -86,8 +90,12 @@ footer nav blockquote footer cite {
   float: right;
 }
 
+.blog-post-footer {
+  box-shadow: 0px 30px 30px rgba(0,0,0,.1);
+}
+
 article header h2 {
-  margin-bottom: 0;
+  padding-top: 1em;
 }
 
 article header h2 + p {
@@ -96,12 +104,11 @@ article header h2 + p {
 }
 
 article header h2 a {
-  text-decoration: underline;
-  color: #2c2c2c;
+  text-decoration: none;
 }
 
 article header h2 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 img {
