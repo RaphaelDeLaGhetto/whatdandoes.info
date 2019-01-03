@@ -14,10 +14,10 @@ Lily, a translator in the Lentomi Bible translation project, was flying back to
 her home country in Asia after attending a conference abroad. At the airport in
 the capital city Lily’s mobile phone was inspected and officials discovered
 that it contained an audio New Testament. Suspecting that Lily might be a
-religious extremist, they confiscated the phone and detained her at the airport
-for questioning. The interrogation lasted two hours, as the officers tried to
-make her incriminate herself. But Lily felt no fear as she calmly answered all 
-the questions.
+religious extremist, <!-- more --> they confiscated the phone and detained her
+at the airport for questioning. The interrogation lasted two hours, as the
+officers tried to make her incriminate herself. But Lily felt no fear as she
+calmly answered all the questions.
 
 At one point a group of officers were gathered around her, and one of them asked
 to listen to her Scripture app. It ‘happened’ to be in the middle of the Sermon

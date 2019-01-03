@@ -14,6 +14,8 @@ On our way back from the airport, when our Ethiopian taxi driver learned that
 we work in Bible translation, he exclaimed, “I’ve often wondered if the Bible
 was in my mother tongue of Tigrinya.”
 
+<!-- more -->
+
 Upon hearing this, I pulled out my cell-phone and within a minute found an
 audio recording and script of the Tigrinya New Testament on
 [Scripture Earth](https://scriptureearth.org), a website that contains

@@ -12,7 +12,7 @@ tags:
 
 ## The Christmas Spirit
 
-The birth, death, and resurrection of Jesus Christ is proof that God loves you<sup>[John 3:16](https://www.biblegateway.com/passage/?search=john+3%3A16&version=NIV)</sup>. Remember this as you celebrate God's entry into the world as a little baby this Christmas. Our God, our Creator swaddled and lovingly placed in a manger by his mother. Worship Jesus Christ and receive the Christmas Spirit. Know love, joy, peace, kindness, and all the goodness that comes with loving your neighbour and living your love for Christ.
+The birth, death, and resurrection of Jesus Christ is proof that God loves you<sup>[John 3:16](https://www.biblegateway.com/passage/?search=john+3%3A16&version=NIV)</sup>. Remember this as you celebrate God's entry into the world as a <!-- more --> little baby this Christmas. Our God, our Creator swaddled and lovingly placed in a manger by his mother. Worship Jesus Christ and receive the Christmas Spirit. Know love, joy, peace, kindness, and all the goodness that comes with loving your neighbour and living your love for Christ.
 
 I don't know that people talk much about the Christmas Spirit anymore. If you mention it, people will know what you mean, but may not agree about what the Christmas Spirit is. For those who celebrate Christmas as the birth of Jesus, it's safe to say the Christmas Spirit is Christ's own Holy Spirit. For those who celebrate the holidays in a different way, I couldn't say for sure... old movies give the impression that the Christmas Spirit is some vague notion of warm feelings radiating from deep inside the heart.
 
