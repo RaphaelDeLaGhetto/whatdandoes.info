@@ -1,35 +1,72 @@
 ---
-title: King's Gate Thank You
+title: Redemption - Children's Message
 tags:
+- sermon
+- children
 ---
 
+# Saint Peter's Lutheran - First Sunday in Christmas
 
-My name is Daniel Bidulock, emissary from Saint Peter's Lutheran. Your congregation recently gave us reason to give thanks to God. In turn, my church council gave me the privilege of coming to you folk at King's Gate to say _Thank you_ for your generous gift.
+## What is Redemption?
 
-Beyond material provision, your generosity has given us at Saint Pete's reason for self-reflection and prayer. You've  blessed us with the question of how to appropriately give thanks to God and how to best show our appreciation to you. This is a wonderful opportunity to build friendship, fellowship, and God's kingdom.
+- Have you ever broken something?
 
-As a Wycliffe Bible Translator, I depend on generosity to do my work. Through my prayer and financial partners, I get to witness first hand how generosity builds God's kingdom. It is a powerful force. What a wonderful thing you've done! Joyful givers giving in faithful obedience trusting God that their giving will change lives... will change the world.
+- Was someone upset?
 
-I wonder how your generosity will change Saint Pete's. How will your generosity change the world?
+### Derek and the Van Window
 
-Let me pray...
+My friend Derek was playing baseball at church and he put a ball through the back window of the van.
 
-God, praise you for your children at King's Gate. Let Saint Peter's seek your will in how to best give thanks and how to best invest what we've been given. Please bless this congregation with good health, good spirits, and may your abudnance always outpace their generosity. In your Son's name, amen.
+- Do you think someone was upset?
 
-Thank you, and merry Christmas from me, my family, and Saint Peter's Lutheran.
+- How might Derek make things better?
+
+Derek paid $300 to have the windshield replaced.
+
+- Is it all better now?
+
+We might say Derek _redeemed_ the situation.
+
+### 
+
+- Do you think someone was upset?
+
+- How might _ ______  make things better?
+
+He can't. There is nothing he can do to redeem the situation.
+
+### What does redemption have to do with Christmas?
+
+- Do you ever do things to make Jesus upset?
+- How can you make it better?
+
+You can't. When you do something that makes Jesus upset, we call that sin. We are all sinners and there's nothing we can do to change this.
+
+- Does that make you upset?
+
+Well, I've got Good News. God wants us all to be redeemed. He came at Christmas as the baby Jesus so that he could one day redeem us.
+
+- How do you think he did this?
+- How much do you think it cost?
+
+God gave us an incredible gift at Christmas. He gave us Himself. He is the baby Jesus. One day he would pay the ultimate price for our redemption. 
+
+### Maybe we can do something...
+
+What if _ ______ forgave Derek for breaking _ ______?
+
+- Do you think that would make things better?
+
+_ ______ might just be able to redeem the situation.
+
+- How would Jesus redeem us when we sin?
+
+From the Bible in the Book of Colossions 3:12-13
+
+> As God’s chosen ones, holy and beloved, clothe yourselves with compassion, kindness, humility, meekness, and patience. 13 Bear with one another and, if anyone has a complaint against another, forgive each other; just as the Lord[f] has forgiven you, so you also must forgive. 
 
 
+## Prayer
 
----
-
-Give generously as a result of your love for God.
-
-Heb 11:6
-2 Cor 8:7,8
-2 Cor 9:11
-
-
-Invite to
- - Hear me preach
- - Cumbrian Arms
-
+Father God, thank you for sending your son Jesus to be our redeemer. Thank you for your forgiveness. Thank you for choosing us. Please teach us compassion, kindness, and patience. Let us forgive each other, just like you forgave us. In Jesus name, amen.
+You are God's chosen ones.
