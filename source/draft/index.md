@@ -1,5 +1,6 @@
 ---
-title: Redemption - Children's Message
+title: Computing Bible Translation - Lutheran Connector
+tags:
 ---
 
 The Scripture changed my life. Long before I knew Jesus, his word was delivered through Jack Chick comic book Bible tracts I found at the bus stop. What first seemed silly and offensive eventually rewrote my story on earth in way that will be told in eternity. I am a witness-to and proof-of the power of God's Word. 
@@ -23,4 +24,6 @@ As Christ's followers, it is our job to testify to God's sacrifice to people all
 My call to serve with Wycliffe brings with it an opportunity for others to contribute to the Great Commission. The good stories people tell about how they came to know Christ are enabled by generosity. Money contributed to my mission is money invested in God's work. It has impact on real lives in ways money alone cannot facilitate.
 
 My work as a Bible translator is supported entirely by generous individuals and families. I cannot do my work without your generosity. My work presents an opportunity to contribute to building God's Kingdom. Go to whatdandoes.info and ask God you can join me and Wycliffe in prayer and financial partnership. I am not concerned with the amount you are called to give. God may tell you to pledge $200 per month, or he may tell you to pledge $5 per month. All generosity is celebrated, no matter the amount. And all generosity has a direct impact on bringing hope and improving lives all around the world.
+
+
 
