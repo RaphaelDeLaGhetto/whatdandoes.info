@@ -44,7 +44,7 @@ It is a great privilege to be called to apply my God-given skills with Wycliffe.
 ### God's peace,
 
 ## Daniel Bidulock M.Div., M.Sc.
-### Wycliffe Bible Tranlator
+### Wycliffe Bible Translator
 
 Contact:
 
