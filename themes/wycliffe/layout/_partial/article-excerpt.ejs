@@ -5,6 +5,7 @@
         <%- item.title %>
       </a>
     </h2>
+    <%- partial('article-tags', {item: item}) %>
     <p class="blog-post-meta">
       <%= item.date.format(config.date_format) %>
     </p>
