@@ -20,7 +20,7 @@ When God's Word takes root in your heart, you see the world clearly. You see God
 
 {% asset_img cube-2-poster.jpg %}
 
-God's truth was further reinforced through my academic studies in Computer Science... nothing is random, and infinity belongs to God. Like God, we create with our words. This is true of all people, though perhaps in a less literal sense than when executed by someone who speaks the languages of machines. My graduate research in Artificial Intelligence was motivated largely by the romantic notion of creating a sentient computer being in my own tarnished image. Day by day, this notion is less romatic and more likley. Artificial Intelligence and Computer Science provide fertile ground for new points of theological discussion.
+God's truth was further reinforced through my academic studies in Computer Science... nothing is random, and infinity belongs to God. Like God, we create with our words. This is true of all people, though perhaps in a less literal sense than when executed by someone who speaks the languages of machines. My graduate research in Artificial Intelligence was motivated largely by the romantic notion of creating a sentient computer being in my own tarnished image. Day by day, this notion is less romantic and more likely. Artificial Intelligence and Computer Science provide fertile ground for new points of theological discussion.
 
 {% asset_img turingMachine.gif %}
 
