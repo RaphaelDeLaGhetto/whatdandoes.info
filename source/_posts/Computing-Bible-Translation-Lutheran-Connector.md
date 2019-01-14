@@ -1,8 +1,10 @@
 ---
 title: Computing Bible Translation - Lutheran Connector
 tags:
-- article
+  - article
+date: 2019-01-14 14:44:50
 ---
+
 
 The Scripture changed my life. Long before I knew Jesus, his word was delivered through [Jack Chick comic book Bible tracts](https://www.chick.com/) I found at the bus stop. What first seemed silly and offensive eventually rewrote my story in a way that will be told in eternity. I am a witness-to and proof-of the power of God's Word. 
 
