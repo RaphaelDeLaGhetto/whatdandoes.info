@@ -28,11 +28,11 @@ By His Word and His Spirit, God imposes his order over the formless mass by spea
 
 ## Reflection
 
-Of the english translations I've read, I think the King James Version of the Bible tells this story the best. It speaks closest to my heart and it appeals to my mind, because I recognize the truth in it. This is the story of creation as told by a Computer Scientist.
+Of the English translations I've read, I think the King James Version of the Bible tells this story the best. It speaks closest to my heart and it appeals to my mind, because I recognize the truth in it. This is the story of creation as told by a Computer Scientist.
 
-Few people appreciate the philosophical foundations of Computer Science. Even myself, I best understand it as mode of self expression. Computer programming allows me to create with a machine. I speak the language of machines, which ultimately, if done well, is communicated to you, the _user_.
+Few people appreciate the philosophical foundations of Computer Science. Even myself, I understand it best as a mode of self expression. Computer programming allows me to create with a machine. I speak the language of machines, which ultimately, if done well, is communicated to you, the _user_.
 
-Few people understand how Computer Science is even _science_. We are unique in that the scientific method is embodied entirely in the computer program, written in the language of machines. Hypothesis, observation, and proof are all wrapped up in the program. The _science_ of Computer Science is carried out when we prove a problem can be solved by a machine... the problem is _computable_.
+Few people understand how Computer Science is even _science_. It is unique in that the scientific method is embodied entirely in the computer program, written in the language of machines. Hypothesis, observation, and proof are all wrapped up in the program. The _science_ of Computer Science is carried out when we prove a problem can be solved by a machine... the problem is _computable_.
 
 For most people, the apps on our phones and laptops are where it begins and ends. When you start asking the question of which problems are computable, new questions about reality, randomness, probability, and life come to the surface. You may conclude that what is impossible for a machine, is also impossible in the world in which we live and breath.
 
