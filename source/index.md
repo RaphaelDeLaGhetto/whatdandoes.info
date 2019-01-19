@@ -24,10 +24,9 @@ God called me to Wycliffe to serve and to help write a better story. When God fi
 
 There are no shortage of opportunities to apply computing in carrying out the Great Commission and everyone can contribute. [Your generosity](/partner) is a powerful catalyst in enhancing and extending the Kingdom of God.
 <div class="cta">
-  <div>YOU can change lives immediately</div>
-  <a href="/partner">
+  <a href="https://patreon.com/whatdandoes">
     <div class="btn">
-      Learn how &#x25B6;
+      SUPPORT THIS WORK
     </div>
   </a>
 </div>
