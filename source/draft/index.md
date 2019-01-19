@@ -1,57 +1,64 @@
 ---
-title: Computing Bible Translation - Lutheran Connector
+title: God Revealed in Creation - Emmanuel Community Church
 tags:
+- breakfast
+- pd
+- sermon
 ---
 
-The Scripture changed my life. Long before I knew Jesus, his word was delivered through [Jack Chick comic book Bible tracts](https://www.chick.com/) I found at the bus stop. What first seemed silly and offensive eventually rewrote my story in a way that will be told in eternity. I am a witness-to and proof-of the power of God's Word. 
+Preaching is Bible translation. It's retelling stories in a way that speaks to the heart. Proclaiming the truth of your salvation in Christ.
 
-{% asset_img 17-chick-frame.jpg %}
+It's not easy to understand. Sometimes the heart and mind are hard, infertile ground. For those whose hearts and minds provide rich soil, Sunday's sermons become a reminder that our sins are forgiven and that our lives in eternity belong to God.
 
-<!-- more -->
+This is the story of creation as told in the first four verses of the Bible. This is where everything begins.
 
-There are many people who know a different _Danny_. Most people call me _Dan_ now. I'm the same person I've always been, but still _different_ somehow. There is no greater wisdom to be attained apart from fearing God and measuring your own heart and mind against the stories told by witnesses in the Bible. This is what sets _Dan_ apart from _Danny_... though I am badly tainted, my life reflects God's truth.
+# Genesis 1:1-4 (KJV)
 
-It's been fifteen years since I submitted my life to Jesus Christ. Now I am called to extend Christ's offer of eternal life to some who believe Jesus to be silly and offensive. And to others who have never even heard His name.
+> <sup>1</sup> In the beginning God created the heaven and the earth.
+>
+> <sup>2</sup> And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+>
+> <sup>3</sup> And God said, Let there be light: and there was light.
+>
+> <sup>4</sup> And God saw the light, that it was good: and God divided the light from the darkness.
 
-## My name is Daniel Bidulock. I am computer programmer and [Wycliffe Bible Translator](https://www.wycliffe.ca/).
+The first sentence in the Bible plainly states that God created the world we know. Whatever existed before our universe had no form. It was empty. It's there, but you can't see through its own deep darkness. This is what God holds in his hands. His Spirit spreads over what is here described as _the waters_.
 
-When God's Word takes root in your heart, you see the world clearly. You see God at work everywhere. For me, having read those first few verses, God was immediately revealed in music, movies, and television... none of which were _Christian_. To this day I point to the truths revealed to me by _The Matrix_, _Fight Club_, and a wonderful Canadian film called _Cube 2: Hypercube_.
+By His Word and His Spirit, God imposes his order over the formless mass by speaking light into it. Looking at what He has now, God likes what he sees. It is good. He separates light from what was once only shapeless darkness.
 
-{% asset_img cube-2-poster.jpg %}
+## Reflection
 
-God's truth was further reinforced through my academic studies in Computer Science... nothing is random, and infinity belongs to God. Like God, we create with our words. This is true of all people, though perhaps in a less literal sense than when executed by someone who speaks the languages of machines. My graduate research in Artificial Intelligence was motivated largely by the romantic notion of creating a sentient computer being in my own tarnished image. Day by day, this notion is less romantic and more likely. Artificial Intelligence and Computer Science provide fertile ground for new points of theological discussion.
+Of the English translations I've read, I think the King James Version of the Bible tells this story the best. It speaks closest to my heart and it appeals to my mind, because I recognize the truth in it. Let me share the story of creation through the eyes of a Computer Scientist.
 
-{% asset_img turingMachine.gif %}
+Few people appreciate the philosophical foundations of Computer Science. Even myself, I best understand it as a computer programmer wielding a mode of self expression. Computer programming allows me to create with a machine. I speak the languages of machines.
 
-Though excited to speak at length about fantastic ideas about computing and reality itself, my first Wycliffe assignment is purely pragmatic. Wycliffe has an immediate need for Web Developers. By God's provision, I've been teaching Web Development for the last three years and am a master of my trade. Programmers write _software_ for computers. Web Developers are specialized programmers in that we write software for delivery over the World Wide Web. Wycliffe has an urgent need for Web Developers. My first assignment will be a Web application called Scripture Forge. You can learn more about it at https://scriptureforge.org.
+Few people understand how Computer Science is even _science_. It is unique in that the scientific method is embodied entirely in the computer program, written in the language of machines. Hypothesis, observation, and proof are all wrapped up in the program. The _science_ of Computer Science is carried out when we prove a problem can be solved by a machine... the problem is _computable_.
 
-It used to take about 25 years to produce a complete translation of the Bible into a new language. With the advent of computing machines, it now takes about ten. In practical terms, my job at Wycliffe is to make Bible translation faster and easier. The need for Web Developers is motivated by the urgent need of people who don't know this simple truth: _Jesus loves you_. No Scripture, no salvation... no Bible comics at the bus stop. This is deeply unsettling, because memories of the old _Danny_ are still fresh. My life apart from Christ is a bad story.
+For most people, the apps on our phones and laptops are where it begins and ends. But when you start asking the question of which problems are computable, new questions about reality, randomness, and life bubble to the surface. In seeking answers to these questions, you may conclude that what is impossible for a machine, is also impossible in the world in which we live and breath.
 
-{% asset_img christ-saving-peter.jpg %}
+If held to be true, this is an incredible revelation. It provides us a new way to express God's truth. It reveals God, and reveals His image in us. We create with our words. We create like God.
 
-My work as a Bible translator is supported entirely by generous individuals and families. I cannot do my work without your generosity. Take this opportunity to contribute to Kingdom-building work. We need committed monthly financial partners. I cannot begin work until my budget is proven 100% sustainable. Click [whatdandoes.info/partner](https://whatdandoes.info/partner) for details and to see where your help is needed. 
+But it's even more incredible than that...
 
-My call to serve with Wycliffe brings with it an opportunity for others to contribute to the Great Commission. The good stories people tell about how they came to know Christ are enabled by generosity. Money contributed to my mission is money invested in God's work. It has impact on real lives in ways money alone cannot facilitate.
+When I write a program, I write it so that _people_ can understand it. Computers don't use words like we do. The words I write in a program are translated into electrical charges usually stored on disk. Inside the computer we find billions of tiny transistors. If there is a high voltage on one transistor we symbolize it with a 1. If there is a low voltage, we symbolize it with a 0. Human language gets interpreted into 1s and 0s, and then ultimately into electrical magnetic charges on billions of transistors on a silicon chip. This is _digital electronics_. The 1s and 0s are the digits we chose to represent the electrical charges. From human-readable code, to 1s and 0s. This is how the machine does what I tell it to do.
 
-## Give as God leads 
+Computer Science is carried out when we solve a problem with a program.
 
-### Invite my family to visit you on a Sunday.
+Can I solve a problem in this way? When it comes to Bible translation, the answer is definitely _yes_. God gave me the gifts to observe, hypothesize, and prove. This is why I am called to serve with Wycliffe.
 
-Allow me to testify to the power of the Scriptures. We hope to visit the congregations in Calgary and Southern Alberta to call up supporters. 
+Think of what can be expressed with 1s and 0s. Lightness and darkness.
 
-It is a great privilege to be called to apply my God-given skills with Wycliffe. Greater still that I get to hear good stories first-hand of individual lives changed and entire communities transformed. There is no better use of my time on earth. Let me share this joyous duty with you. We are all called to testify to God's work in our own lives. We are all called to bring news of His sacrifice to people around the world.
+Every story ever told or will ever be told. We read stories on a computer. We stream movies from Netflix. All are expressed with 1s and 0s.
 
-### God's peace,
+Where do we see evidence of God's creative hand in all this? We see it in ourselves. We also see it in infinity. A secular Computer Scientist knows that nothing is random and that nothing in this universe is infinite. A Christian knows that God is infinite and our universe is in his hand.
 
-## Daniel Bidulock M.Div., M.Sc.
-### Wycliffe Bible Translator
+Apart from God, when I think infinite, my mind drifts to the number Pi. When you try to calculate it, you find that it meandres _randomly_ forever. Even more curious, there's no discernable pattern in the sequence of numbers that depict Pi. We use computers to calculate Pi to trillions of decimal points. No repetition yet.
 
-Contact:
+Pi, of course, when calculated by a computer is first expressed in 1s and 0s. Just like a computer program. Just like your favourite novel.
 
-- dan.bidulock@wycliffe.ca
+Pi, remember, is infinite. It also has no discernable order. It never repeats. Somewhere in the digits that express Pi, there is a sequence of 1s and 0s, that if given to a computer, will execute a program. Not only that, every slight variant of that program is also encoded somewhere in the digits that form Pi. It could be a simple program that says _Hello, world!_, or it might be Super Mario. It's all there somewhere in the _formless waters_ of Pi. This is what becomes possible in the face of the infinite. Even if we took every disk on earth, we'd never be able to contain Pi. Even if we somehow used every atom in the universe to create a disk, we would never be able to contain Pi.
 
-Info: 
+We create with our words, but we are not God. Only God can separate light from dark, day from night, water from sky, land from water, and create plants, animals, and people all with stories of their own. Our God-_like_ creative capacity is nothing compared to that of God himself. Jesus, the Word made flesh, gave us the greatest story ever told. When faced with the reality of infinity we only begin to understand how God can write a good story for everyone. Some people have sad stories, but Christ the Word, our Author, our Creator, our Programmer, makes a sad story a good story. When faced with infinity, we suddenly realize how all people can be redeemed, how all people can be forgiven their sins, and how all people can have their good stories told in eternity.
 
-- https://whatdandoes.info
-
+That was creation viewed through the lens of Computer Science. Let the story speak to your heart and mind. May God guide your hand in expressing your God-given creativity to write a good story. 
 
