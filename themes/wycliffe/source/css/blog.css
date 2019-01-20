@@ -30,7 +30,7 @@ main {
 
 main article {
   background-color: #ffffff;
-  padding: 1.1rem;
+  padding: 0 1.1rem 1.1rem 1.1rem;
 }
 
 nav ul {
@@ -76,6 +76,7 @@ body > footer a:hover {
 
 article {
   margin-bottom: 3em;
+  box-shadow: 0 .25em .25em rgba(0,0,0,.1);
 }
 
 article blockquote p {
@@ -94,10 +95,6 @@ footer nav blockquote p {
 
 footer nav blockquote footer cite {
   float: right;
-}
-
-.blog-post-footer {
-  box-shadow: 0px 30px 30px rgba(0,0,0,.1);
 }
 
 article header h2 {
@@ -140,7 +137,8 @@ video,
 
   main article {
     font-size: 1.125rem;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 60%;
   }
 
