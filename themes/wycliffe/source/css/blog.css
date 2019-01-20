@@ -12,6 +12,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   color: rgba(0,0,0,.75);
   font-size: 1.1rem;
+  background-color: #f8f8f8;
 }
 
 a {
@@ -25,6 +26,11 @@ a:hover {
 
 main {
   margin: 1em;
+}
+
+main article {
+  background-color: #ffffff;
+  padding: 1.1rem;
 }
 
 nav ul {
@@ -134,6 +140,8 @@ video,
 
   main article {
     font-size: 1.125rem;
+    margin: auto;
+    width: 60%;
   }
 
   video,
@@ -145,8 +153,6 @@ video,
 
 @media only screen and (min-width: 60em) {
   main article {
-    padding-left: 22.222%;
-    width: 88.888%;
   }
 
   video,
@@ -160,25 +166,31 @@ video,
   text-align: center;
   width: 100%;
   position: relative;
-  background: #4E598C;
   line-height: 3em;
   padding: 1em;
-  color: white;
   align-items: center;
 }
 
 .cta .btn {
+  background: rgb(249, 104, 84);
   margin: auto;
-  width: 40%;
+  color: white;
+  width: 50%;
   border: 1px solid rgba(255, 255, 255, 0.5);
+  font-weight: bold;
 }
 
 .cta .btn:hover {
-  color: #4E598C;
-  background-color: white;
+  background-color: rgba(249, 104, 84, 0.8);
 }
 
 .cta a {
   color: white;
   text-decoration: none; 
+}
+
+@media only screen and (max-width: 48em) {
+  .cta .btn {
+    width: 100%;
+  }
 }
