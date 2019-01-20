@@ -37,7 +37,7 @@ Partnering with us is easy:
 
 - In Canada, click this link to donate: https://www.wycliffe.ca/projects/dan-bidulock/
 - In the US, click this link and follow the directions: https://www.wycliffe.org/partner/give-to-the-ministry-of-my-wycliffe-missionary
-- [Become a Patron](https://www.patreon.com/whatdandoes)
+- <a href="https://www.patreon.com/bePatron?u=16503382" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 Tax receipts are issued for gifts of $25 or more.
 
