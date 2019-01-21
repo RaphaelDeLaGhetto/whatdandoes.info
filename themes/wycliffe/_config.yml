@@ -1,9 +1,9 @@
 # Header
 menu:
 #  Archives: /archives
-  Partner: /partner
+#  Partner: /partner
   Blog: /blog
-#  About: /about
+  About: /about
   Home: /
 
 # Read More text
