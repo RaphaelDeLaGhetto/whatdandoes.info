@@ -1,16 +1,19 @@
 ---
 title: Your Generosity Changes Lives 
 date: 2018-11-17 15:18:05
+nosidebar: true
+hero: true
 ---
 
-## Partnering with us is easy:
+# Give through Wycliffe:
 
 ### &#9654; [Click here to donate by Credit Card in Canada](https://www.wycliffe.ca/projects/dan-bidulock/)
 
 ### &#9654; [Click here to donate by Credit Card in the USA](https://www.wycliffe.org/partner/give-to-the-ministry-of-my-wycliffe-missionary)
 
-<a href="https://www.patreon.com/bePatron?u=16503382" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+# Give $5/month through Patreon:
 
+<a href="https://www.patreon.com/bePatron?u=16503382" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 **Tax receipts are issued for total gifts of $25 or more.**
 
