@@ -15,9 +15,9 @@ Long before I knew Jesus, his word was delivered through [Jack Chick comic book 
 
 There are many people who know a different _Danny_. Most people call me _Dan_ now. I'm the same person I've always been, but still _different_ somehow. There is no greater wisdom to be attained apart from fearing God and measuring your own heart and mind against the stories told by witnesses in the Bible. This is what sets _Dan_ apart from _Danny_... though I am badly tainted, my life reflects God's truth.
 
-It's been fifteen years since I submitted my life to Jesus Christ. Now I am called to extend Christ's offer of eternal life to some who believe Jesus to be silly and offensive, and to others who have never even heard His name.
+It has been fifteen years since I submitted my life to Jesus Christ. Now I am called to extend Christ's offer of eternal life to some who believe Jesus to be silly and offensive, and to others who have never even heard His name.
 
-## My name is Daniel Bidulock. I am computer programmer and [Wycliffe Bible Translator](https://www.wycliffe.ca/).
+## My name is Daniel Bidulock. I am a Web Developer and [Wycliffe Bible Translator](https://www.wycliffe.ca/).
 
 When God's Word takes root in your heart, you see the world clearly. You see God at work everywhere. For me, having read those first few verses, God was immediately revealed in music, movies, and television... none of which were _Christian_. To this day I point to the truths revealed to me by _The Matrix_, _Fight Club_, and a wonderful Canadian film called _Cube 2: Hypercube_.
 
@@ -31,15 +31,15 @@ God's truth was further reinforced through my academic studies in Computer Scien
 
 Though excited to speak at length on fantastic ideas about computing and reality itself, my first Wycliffe assignment is purely pragmatic. Wycliffe has an immediate need for Web Developers. By God's provision, I've been teaching Web Development for the last three years and am a master of my trade. Programmers write _software_ for computers. Web Developers are specialized programmers in that we write software for delivery over the World Wide Web. Wycliffe has an urgent need for Web Developers. My first assignment will be a Web application called Scripture Forge. You can learn more about it at https://scriptureforge.org.
 
-### It used to take about 25 years to translate the Bible into a new language
+### A full Bible translation can take 30 years or longer
 
-With the advent of computing machines, it now takes about ten. In practical terms, my job at Wycliffe is to make Bible translation faster and easier. The need for Web Developers is motivated by the urgent need of people who don't know this simple truth: _Jesus loves you_. No Scripture, no salvation... no Bible comics at the bus stop. This is deeply unsettling, because memories of the old _Danny_ are still fresh. My life apart from Christ is a bad story.
+In practical terms, my job at Wycliffe is to make Bible translation faster and easier. The need for Web Developers is motivated by the urgent need of people who don't know this simple truth: _Jesus loves you_. No Scripture, no salvation... no Bible comics at the bus stop. This is deeply unsettling, because memories of the old _Danny_ are still fresh. My life apart from Christ is a bad story.
 
 {% asset_img christ-saving-peter.jpg %}
 
 ### My work as a Bible translator is supported entirely by generous individuals and families.
 
-I cannot do my work without _your_ generosity. Take this opportunity to contribute to Kingdom-building work. I need committed monthly financial partners and cannot begin work until my budget is proven 100% sustainable. Click [whatdandoes.info/partner](https://whatdandoes.info/partner) for details and to see where your help is needed. 
+I cannot do my work without _your_ generosity. Take this opportunity to contribute to Kingdom-building work. I need committed monthly financial partners and cannot begin work until my budget is proven 100% sustainable. Click [whatdandoes.info](https://whatdandoes.info) for details and to see where your help is needed. 
 
 My call to serve with Wycliffe brings with it an opportunity for others to contribute to the Great Commission. The good stories people tell about how they came to know Christ are enabled by generosity. Money contributed to my mission is money invested in God's work. It has impact on real lives in ways money alone cannot facilitate.
 
