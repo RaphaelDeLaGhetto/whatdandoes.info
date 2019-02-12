@@ -29,7 +29,9 @@ God's truth was further reinforced through my academic studies in Computer Scien
 
 {% asset_img turingMachine.gif %}
 
-Though excited to speak at length on fantastic ideas about computing and reality itself, my first Wycliffe assignment is purely pragmatic. Wycliffe has an immediate need for Web Developers. By God's provision, I've been teaching Web Development for the last three years and am a master of my trade. Programmers write _software_ for computers. Web Developers are specialized programmers in that we write software for delivery over the World Wide Web. Wycliffe has an urgent need for Web Developers. My first assignment will be a Web application called Scripture Forge. You can learn more about it at https://scriptureforge.org.
+Though excited to speak at length on fantastic ideas about computing and reality itself, my first Wycliffe assignment is purely pragmatic. Wycliffe has an immediate need for Web Developers. By God's provision, I've been teaching Web Development for the last three years and am a master of my trade. Programmers write _software_ for computers. Web Developers are specialized programmers in that we write software for delivery over the World Wide Web. Wycliffe has an urgent need for Web Developers.
+
+When my financial support is in place, my first assignment will be to help develop a Web application called [Scripture Forge](https://scriptureforge.org). This tool will facilitate online community Scripture checking. Bible Translators will be able to quickly engage with the language community by uploading Scripture portions, asking targeted questions, and preparing language data for further processing. 
 
 ### A full Bible translation can take 30 years or longer
 
