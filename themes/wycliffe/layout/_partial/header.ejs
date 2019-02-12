@@ -1,4 +1,9 @@
 <header>
   <%- partial('_partial/menu') %>
-  <%- partial('_partial/cta-button') %>
+  <% if (page.hero) { %>
+    <%- partial('_partial/hero') %>
+  <% } %>
 </header>
+<% if (!page.hero) { %>
+  <%- partial('_partial/cta-button') %>
+<% } %>

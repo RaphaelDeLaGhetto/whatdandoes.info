@@ -101,6 +101,10 @@ footer nav blockquote footer cite {
   float: right;
 }
 
+body > header {
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../images/blue.jpg);
+}
+
 article header h2 {
   padding-top: 1em;
   font-size: 2em;
@@ -152,7 +156,6 @@ video,
   .video-container iframe {
     min-height: 380px;
   }
-
 }
 
 @media only screen and (min-width: 60em) {
@@ -171,7 +174,6 @@ video,
   width: 100%;
   position: relative;
   line-height: 3em;
-  padding: 1em;
   align-items: center;
 }
 
@@ -180,7 +182,7 @@ video,
   margin: auto;
   color: white;
   width: 50%;
-  border: 1px solid rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(255, 0, 0, 0.5);
   font-weight: bold;
 }
 
@@ -193,8 +195,20 @@ video,
   text-decoration: none; 
 }
 
+header + .cta {
+  margin: .25em auto 0 auto;
+  width: 50%;
+}
+
 @media only screen and (max-width: 48em) {
   .cta .btn {
     width: 100%;
+  }
+}
+
+
+@media only screen and (min-width: 48em) {
+  .cta {
+    padding: 1em;
   }
 }
