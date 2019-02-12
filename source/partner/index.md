@@ -1,8 +1,8 @@
 ---
-title: Your Generosity Changes Lives 
+title: Two Easy Ways to Start Today 
 date: 2018-11-17 15:18:05
 nosidebar: true
-hero: true
+nocta: true
 ---
 
 # Give through Wycliffe:

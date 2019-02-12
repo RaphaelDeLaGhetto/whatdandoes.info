@@ -4,6 +4,6 @@
     <%- partial('_partial/hero') %>
   <% } %>
 </header>
-<% if (!page.hero) { %>
+<% if (!page.nocta && !page.hero) { %>
   <%- partial('_partial/cta-button') %>
 <% } %>
