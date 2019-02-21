@@ -23,3 +23,128 @@
   transform: translate(-50%, -50%);
   color: white;
 }
+
+#player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+
+#youtube-play {
+  width: 50%;
+  cursor: pointer;
+  animation: shake 0.5s;
+}
+
+#youtube-play:hover {
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+#loader {
+  border: 3px solid rgba(0,0,0,0);
+  border-top: 3px solid blue;
+  border-bottom: 3px solid blue;
+
+  border-radius: 50%;
+  width: 2em;
+  height: 2em;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+  margin: auto;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 1s, opacity 1s linear;
+}
+
+.visible {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 1s linear;
+}
+
+@media only screen and (min-width: 48em) {
+  #youtube-play {
+    width: 25%;
+  }
+}
+
+/**
+ * 2019-2-12 https://www.w3schools.com/howto/howto_css_parallax.asp
+ */
+.parallax { 
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  text-align: center;
+  line-height: 200px;
+  padding-top: 30vh;
+}
+
+.parallax div { 
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.parallax h1 {
+  margin-top: 0;
+}
+
+.parallax h1 a {
+  font-size: 2em;
+  color: white;
+}
+
+.parallax-image-0 { 
+  height: 100%; 
+  background-image: url("https://software.sil.org/padauk/wp-content/uploads/sites/39/2016/06/banner_image.jpg");
+  background-size: cover;
+}
+
+.parallax-image-1 { 
+  height: 100%; 
+  background-image: url("https://software.sil.org/awami/wp-content/uploads/sites/33/2018/04/banner_image-1.png");
+  background-size: cover;
+}
+
+.parallax-image-2 { 
+  height: 100%; 
+  background-image: url("https://software.sil.org/abyssinica/wp-content/uploads/sites/26/2017/04/abyssinica-banner_image.png");
+  background-size: cover;
+}
+
+

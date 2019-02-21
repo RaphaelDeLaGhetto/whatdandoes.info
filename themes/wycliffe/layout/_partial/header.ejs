@@ -1,7 +1,8 @@
 <header>
-  <%- partial('_partial/menu') %>
   <% if (page.hero) { %>
     <%- partial('_partial/hero') %>
+  <% } else { %>
+    <%- partial('_partial/menu') %>
   <% } %>
 </header>
 <% if (!page.nocta && !page.hero) { %>
