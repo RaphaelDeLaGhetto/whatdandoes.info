@@ -13,7 +13,7 @@ nocta: true
 
 # Give $5/month through Patreon:
 
-<a href="https://www.patreon.com/bePatron?u=16503382" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/join/2370938?"><img src="/partner/images/become_a_patron_button@2x.png"></a>
 
 **Tax receipts are issued for total gifts of $25 or more.**
 
