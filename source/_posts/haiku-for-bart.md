@@ -4,7 +4,7 @@ date: 2018-07-27 22:19:58
 tags:
 - haiku
 ---
-Dedicated the day of his gall bladder surgey...
+Dedicated the day of his gall bladder surgery...
 
 <!-- more -->
 
