@@ -1,150 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,300,400');
+
 /* 2019-2-11 https://www.w3schools.com/howto/howto_css_hero_image.asp */
 /* The hero image */
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");*/
+  background-image: url(../images/woman-and-child.jpg);
 
-  /* Set a specific height */
-  height: 100%;
-
-  /* Position and center the image to scale nicely on all screens */
-  background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   background-size: cover;
-  position: relative;
+  background-position: 75%;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  height: 100vh;
+  padding: 1rem;	
 }
 
 /* Place text in the middle of the image */
 .hero-text {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 100;
   text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   color: white;
+  text-shadow: 2px 2px 5px black;
+  margin: 5rem auto 2rem auto;
 }
 
-#player {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
+.hero-text h1 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 100;
+  font-size: 4rem;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+  margin: 5rem auto 2rem auto;
+}
 
+.hero-text h2 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1.7rem;
+  text-align: center;
+  color: white;
+  margin: 1rem auto;
+  padding-top: .5rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  text-shadow: 2px 2px 5px black;
+}
+
+#video {
+  margin: 2rem auto;
   width: 100%;
-  height: 100%;
-  display: none;
+  height: 500px;
 }
-
-#youtube-play {
-  width: 50%;
-  cursor: pointer;
-  animation: shake 0.5s;
-}
-
-#youtube-play:hover {
-  animation-iteration-count: infinite;
-}
-
-@keyframes shake {
-  0% { transform: translate(1px, 1px) rotate(0deg); }
-  10% { transform: translate(-1px, -2px) rotate(-1deg); }
-  20% { transform: translate(-3px, 0px) rotate(1deg); }
-  30% { transform: translate(3px, 2px) rotate(0deg); }
-  40% { transform: translate(1px, -1px) rotate(1deg); }
-  50% { transform: translate(-1px, 2px) rotate(-1deg); }
-  60% { transform: translate(-3px, 1px) rotate(0deg); }
-  70% { transform: translate(3px, 1px) rotate(-1deg); }
-  80% { transform: translate(-1px, -1px) rotate(1deg); }
-  90% { transform: translate(1px, 2px) rotate(0deg); }
-  100% { transform: translate(1px, -2px) rotate(-1deg); }
-}
-
-#loader {
-  border: 3px solid rgba(0,0,0,0);
-  border-top: 3px solid blue;
-  border-bottom: 3px solid blue;
-
-  border-radius: 50%;
-  width: 2em;
-  height: 2em;
-  -webkit-animation: spin 2s linear infinite;
-  animation: spin 2s linear infinite;
-  margin: auto;
-}
-
-@-webkit-keyframes spin {
-  0% { -webkit-transform: rotate(0deg); }
-  100% { -webkit-transform: rotate(360deg); }
-}
-
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-.hidden {
-  visibility: hidden;
-  opacity: 0;
-  transition: visibility 0s 1s, opacity 1s linear;
-}
-
-.visible {
-  visibility: visible;
-  opacity: 1;
-  transition: opacity 1s linear;
-}
-
-@media only screen and (min-width: 48em) {
-  #youtube-play {
-    width: 25%;
-  }
-}
-
-/**
- * 2019-2-12 https://www.w3schools.com/howto/howto_css_parallax.asp
- */
-.parallax { 
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: repeat;
-  text-align: center;
-  line-height: 200px;
-  padding-top: 30vh;
-}
-
-.parallax div { 
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-.parallax h1 {
-  margin-top: 0;
-}
-
-.parallax h1 a {
-  font-size: 2em;
-  color: white;
-}
-
-.parallax-image-0 { 
-  height: 100%; 
-  background-image: url("https://software.sil.org/padauk/wp-content/uploads/sites/39/2016/06/banner_image.jpg");
-  background-size: cover;
-}
-
-.parallax-image-1 { 
-  height: 100%; 
-  background-image: url("https://software.sil.org/awami/wp-content/uploads/sites/33/2018/04/banner_image-1.png");
-  background-size: cover;
-}
-
-.parallax-image-2 { 
-  height: 100%; 
-  background-image: url("https://software.sil.org/abyssinica/wp-content/uploads/sites/26/2017/04/abyssinica-banner_image.png");
-  background-size: cover;
-}
-
 

@@ -1,78 +1,9 @@
 <div class="hero-image">
   <div class="hero-text">
-    <h1>My name is Daniel Bidulock</h1>
-    <p>I am a Web Developer and Wycliffe Bible Translator</p>
-    <div id="loader"></div>
-    <img id="youtube-play" class="hidden" src="/images/play.png">
+    <h1>Daniel Bidulock</h1>
+    <h2>Web Developer and Wycliffe Bible Translator</h2>
+    <%- partial('_partial/cta-button') %>
   </div>
 </div>
 
-<div id="player"></div>
-
-<div class="parallax parallax-image-1">
-  <h1>
-    <a href="/about">About Me</a>
-  </h1>
-</div>
-<div class="parallax parallax-image-2">
-  <h1>
-    <a href="/blog">Blog</a>
-  </h1>
-</div>
-<div class="parallax parallax-image-0">
-  <%- partial('_partial/cta-button') %>
-</div>
-
-<script>
-  var tag = document.createElement('script');
-
-  tag.src = "https://www.youtube.com/iframe_api";
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-  var player;
-  function onYouTubeIframeAPIReady() {
-    player = new YT.Player('player', {
-      height: '1080',
-      width: '1920',
-      videoId: '8JXPUIFjXwo',
-      playerVars: {
-        rel: 0,
-        modestbranding: 1,
-      },
-      events: {
-        'onReady': onPlayerReady,
-        'onStateChange': onPlayerStateChange
-      }
-    });
-  }
-
-  var button = document.getElementById('youtube-play');
-
-  var playerElem;
-  function onPlayerReady(event) {
-    document.getElementById('loader').style.visibility = 'hidden';
-    button.classList.add('visible');
-    playerElem = document.getElementById('player');
-    // event.target.playVideo();
-  }
-
-  function onPlayerStateChange(event) {
-    if (event.data === YT.PlayerState.ENDED || event.data === YT.PlayerState.PAUSED) {
-      playerElem.style.display = 'none';
-      button.classList.remove('hidden');
-      button.classList.add('visible');
-    }
-  }
-
-  function stopVideo() {
-    player.stopVideo();
-  }
-
-  document.getElementById('youtube-play').addEventListener('click', function (e) {
-    button.classList.remove('visible');
-    button.classList.add('hidden');
-    playerElem.style.display = 'block';
-    player.playVideo();
-  });
-</script>
+<iframe id="video" src="https://www.youtube.com/embed/8JXPUIFjXwo" allowfullscreen></iframe>

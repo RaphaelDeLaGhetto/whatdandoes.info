@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,300,400');
+
 * {
   box-sizing: border-box;
 }
@@ -9,7 +11,7 @@ html {
 
 body {
   margin: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Work Sans', sans-serif;
   color: rgba(0,0,0,.75);
   font-size: 1.1rem;
   background-color: #f8f8f8;
@@ -25,7 +27,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Work Sans', sans-serif;
 }
 
 main {
@@ -37,39 +39,12 @@ main article {
   padding: 0 1.1rem 1.1rem 1.1rem;
 }
 
-nav ul {
-  list-style-type: none;
-}
-
-nav ul li {
-  display: inline;
-  float: right;
-}
-
-nav ul li a {
-  padding: 1em;
-}
-
-
-nav,
 body > footer {
   overflow: hidden;
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../images/blue.jpg);
-  color: #ffffff;
-}
-
-nav a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-nav a:hover {
-  text-decoration: underline;
 }
 
 footer nav a,
 body > footer a {
-  color: #ffffff;
   text-decoration: underline;
 }
 
@@ -101,9 +76,11 @@ footer nav blockquote footer cite {
   float: right;
 }
 
+/* 
 body > header {
   background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../images/blue.jpg);
 }
+*/
 
 article header h2 {
   padding-top: 1em;
@@ -167,50 +144,3 @@ video,
     min-height: 480px;
   }
 }
-
-/* CTA */
-.cta {
-  text-align: center;
-  width: 100%;
-  position: relative;
-  line-height: 3em;
-  align-items: center;
-}
-
-.cta .btn {
-  background: rgb(249, 104, 84);
-  margin: auto;
-  color: white;
-  width: 50%;
-  border: 1px solid rgba(255, 0, 0, 0.5);
-  font-weight: bold;
-}
-
-.cta .btn:hover {
-  background-color: rgba(249, 104, 84, 0.8);
-}
-
-.cta a {
-  color: white;
-  text-decoration: none; 
-}
-
-header + .cta {
-  margin: .25em auto 0 auto;
-  width: 50%;
-}
-
-@media only screen and (max-width: 48em) {
-  .cta .btn {
-    width: 100%;
-  }
-}
-
-
-@media only screen and (min-width: 48em) {
-  .cta {
-    padding: 1em;
-  }
-}
-
-

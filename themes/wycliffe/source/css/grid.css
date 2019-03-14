@@ -55,15 +55,6 @@ form.validate h2 {
   color: rgb(249, 104, 84);
 }
 
-#mc_embed_signup .button {
-  color: white;
-  background-color: rgba(249, 104, 84, 1);
-}
-
-#mc_embed_signup .button:hover {
-  background-color: rgba(249, 104, 84, .8);
-}
-
 form,
 button.donate {
   display: block;

@@ -20,7 +20,6 @@
   background: orange;
   margin: auto;
   color: black;
-  width: 50%;
   border: 3px solid black;
   font-weight: bold;
   border-radius: .5rem;
@@ -38,20 +37,14 @@
 
 header + .cta {
   margin: .25em auto 0 auto;
-  width: 50%;
 }
 
-@media only screen and (max-width: 48em) {
-  .cta .btn {
-    width: 100%;
-  }
-}
-
-
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 40em) {
   .cta {
     padding: 1em;
   }
+
+  .cta .btn {
+    width: 50%;
+  }
 }
-
-
