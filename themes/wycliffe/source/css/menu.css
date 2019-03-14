@@ -1,0 +1,90 @@
+/*********************/
+.dropdown {
+  z-index: 1;
+  display: inline-block;
+}
+.dropbtn {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  border: none;
+}
+.menu{
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;	
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  width: 100%;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+.dropdown-content a {
+  padding: 2rem 3rem;
+  display: block;
+  flex: 1;
+  font-size: 1.5rem;
+  font-family:'Work Sans', sans-serif;
+  font-weight: 200;
+  color: black;
+  text-decoration: none;	
+  text-align: center;	
+}
+.dropdown-content a:hover {
+  background-color: black;
+  color: #3399ff;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* END Jair dropdown ********************/
+
+nav {
+  background-color: white;
+  border-bottom: 3px solid black;
+
+/* from Jair
+  z-index: 1;
+  display: inline-block;
+*/
+
+  overflow: hidden;
+/*
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../images/blue.jpg);
+  color: #ffffff;
+*/
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  float: right;
+}
+
+nav ul li a {
+  padding: 1em;
+}
+
+
+
+
+nav a {
+  color: black;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+
