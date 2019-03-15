@@ -88,11 +88,15 @@ footer nav blockquote footer cite {
   float: right;
 }
 
-/* 
-body > header {
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../images/blue.jpg);
+.socialmedia{
+  float: left;
+  width: 5%;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  margin-left: .5rem;
+  margin-right: .5rem;
 }
-*/
+
 
 article header h2 {
   padding-top: 1em;
@@ -161,6 +165,7 @@ video,
   }
 }
 
+/** Jair stuff **/
 .blog-post-meta {
   font-size: 1rem;
   font-weight: 300;
@@ -170,4 +175,38 @@ video,
   width: 100%;
 }
 
+#creditcardgrid{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  margin: 3rem auto;
+  padding-bottom: 5rem;
+  border-bottom: 2px solid black;
+}
+
+.country {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #3399FF;
+  text-align: center;	
+  font-size: 1.5rem;
+}
+
+#countryusa {
+  border-right: 1rem solid #fffcd4;
+  text-decoration: none;
+}
+
+#countrycanada {
+  border-left: 1rem solid #fffcd4;
+}
+
+#or {
+  margin: 5rem auto;
+  width: 100%;
+  font-size: 5rem;
+  text-align: center;
+  font-weight: 100;
+  border-bottom: 2px solid black;
+  padding-bottom: 5rem;
 }

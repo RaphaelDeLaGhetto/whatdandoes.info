@@ -1,19 +1,36 @@
 ---
-title: Two Easy Ways to Start Today 
+title: Two Easy Ways to Start
 date: 2018-11-17 15:18:05
 nosidebar: true
 nocta: true
 ---
 
-# Give through Wycliffe:
+---
 
-### &#9654; [Click here to donate by Credit Card in Canada](https://www.wycliffe.ca/projects/dan-bidulock/)
+# Through Wycliffe
 
-### &#9654; [Click here to donate by Credit Card in the USA](https://www.wycliffe.org/partner/give-to-the-ministry-of-my-wycliffe-missionary)
+Click on of the following options to donate with a credit card:
 
+<div id="creditcardgrid">
+  <a href="https://www.wycliffe.org/partner/give-to-the-ministry-of-my-wycliffe-missionary">
+    <div id="countryusa" class="country">USA</div>
+  </a>
+  <a href="https://www.wycliffe.ca/projects/dan-bidulock/">
+    <div id="countrycanada" class="country">CANADA</div>
+  </a>
+</div>
+
+<p id="or">Or</p>
+    
 # Give $5/month through Patreon:
 
-<a href="https://www.patreon.com/join/2370938?"><img src="/partner/images/become_a_patron_button@2x.png"></a>
+<div class="cta">
+  <a href="https://www.patreon.com/join/2370938?">
+    <div class="btn">
+      Become a Patron
+    </div>
+  </a>
+</div>
 
 **Tax receipts are issued for total gifts of $25 or more.**
 
@@ -22,12 +39,6 @@ stories about how technology is being used to build the Kingdom of God:
 
 - {% post_link Jesus-Speaks-through-an-App Jesus Speaks through an App %}
 - {% post_link The-Bible-on-the-Web-God-s-GPS The Bible on the Web - God's GPS %}
-
-## You can help write stories like these
-
-### Click a tile and become a monthly partner today!
-
-{% donorGrid() %}
 
 God is our provider and He is faithfully building our Wycliffe ministry
 partnership team.
@@ -47,5 +58,4 @@ No amount is insignificant. All generosity is celebrated. You will help
 prepare the world for Christ's return. 
 
 ### Please join us in cultivating biblical and computer literacy around the world.
-
 
