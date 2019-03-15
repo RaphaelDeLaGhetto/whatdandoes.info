@@ -5,11 +5,11 @@ nosidebar: true
 hero: true
 ---
 
-## Over 2000 haven't a single verse of Scripture.
+### Over 2000 haven't a single verse of Scripture.
 
 Many of these languages can't even be written down.
 
-## You can provide the basic tools of literacy in the 21st century
+### You can provide the basic tools of literacy in the 21st century
 
 Partner with Wycliffe Bible Translators and enable minority language groups to record old stories, write new ones, and teach others to express themselves with their own written word.
 

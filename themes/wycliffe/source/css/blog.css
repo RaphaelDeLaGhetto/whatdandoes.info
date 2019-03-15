@@ -30,12 +30,22 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Work Sans', sans-serif;
 }
 
-main {
-  margin: 1em;
+h1, h2 {
+  width: 100%;
+  margin: 1rem auto;
+  font-weight: 400;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 4rem;
+  font-size: 2.4rem;
+  font-weight: 100;
 }
 
 main article {
-  background-color: #ffffff;
+  background-color: #fffcd4;
   padding: 0 1.1rem 1.1rem 1.1rem;
 }
 
@@ -55,7 +65,9 @@ body > footer a:hover {
 
 article {
   margin-bottom: 3em;
-  box-shadow: 0 .25em .25em rgba(0,0,0,.1);
+  border-radius: 0;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 article blockquote p {
@@ -122,6 +134,10 @@ video,
     font-size: 100%;
   }
 
+  main {
+    margin: 1em;
+  }
+
   main article {
     font-size: 1.125rem;
     margin-left: auto;
@@ -143,4 +159,15 @@ video,
   .video-container iframe {
     min-height: 480px;
   }
+}
+
+.blog-post-meta {
+  font-size: 1rem;
+  font-weight: 300;
+  text-indent: 2rem;
+  font-style: italic;
+  margin: 1rem auto;
+  width: 100%;
+}
+
 }
