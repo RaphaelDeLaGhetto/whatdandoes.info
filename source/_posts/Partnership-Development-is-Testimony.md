@@ -30,9 +30,11 @@ In a moment I came up from a foggy valley and found myself perched on top of a h
 
 {% asset_img faith-lutheran-exterior.png Faith Lutheran. My first home church %}
 
-Two years later I was attending Faith Lutheran Church here in Calgary. This was my first _home_ church. One February Sunday my pastor issued a liturgical call to the congregation for parish ministers. I was sitting in the back when I felt a hard finger flick on my ear. I turned around. No one was there. I remember the moment. From there, God's call grew louder day by day. That same September I found myself enrolled in the Canadian Theological Seminary, now known as Ambrose. In the three years of my studies I was employed as the Youth Director at Faith Lutheran, interned at Southside Victory, served two terms on Seminary Student Council, completed advanced courses in ancient Hebrew and Greek, appeared on a [reality dating show](https://www.youtube.com/watch?v=EcxEqQe2muM), and most importantly met the woman who would become my wife. Lyndsay holds a Masters of Leadership and Ministry degree from Ambrose.
+Two years later I was attending Faith Lutheran Church here in Calgary. This was my first _home_ church. One February Sunday my pastor issued a liturgical call to the congregation for parish ministers. I was sitting in the back when I felt a hard finger flick on my ear. I turned around. No one was there. I remember the moment. From there, God's call grew louder day by day.
 
 {% asset_img ambrose-university.jpg Ambrose University %}
+
+That same September I found myself enrolled in the Canadian Theological Seminary, now known as Ambrose. In the three years of my studies I was employed as the Youth Director at Faith Lutheran, interned at Southside Victory, served two terms on Seminary Student Council, completed advanced courses in ancient Hebrew and Greek, appeared on a [reality dating show](https://www.youtube.com/watch?v=EcxEqQe2muM), and most importantly met the woman who would become my wife. Lyndsay holds a Masters of Leadership and Ministry degree from Ambrose.
 
 We married the summer after graduation with the goal of planting an Alliance church in downtown Calgary. My good friend from seminary and I were given the greenlight on the project. We were very good friends. I was Best Man at his wedding. That project fell apart spectacularly in the space of weeks. We didn't speak for nine years. All is forgiven, but I doubt we will be friends again.
 
