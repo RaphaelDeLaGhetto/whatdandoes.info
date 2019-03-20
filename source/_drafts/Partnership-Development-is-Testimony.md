@@ -1,9 +1,12 @@
 ---
 title: Partnership Development is Testimony
 tags:
+- speaking
+- testimony
+- pd
 ---
 
-# Wycliffe Intermission PD Testimony
+# Wycliffe Intermission - March 20, 2019
 
 {% asset_img calgary-from-nose-hill.jpg Downtown Calgary from Nose Hill %}
 
@@ -68,5 +71,4 @@ In all this, Wycliffe members are generous in sharing their own PD experience wi
 Though my PD is progressing at a slow pace, doubt has never crept into my heart or mind. Long before I came to Wycliffe, I could testify to God's generosity. Tithing has been the most longstanding act of worship in my Christian life. I've given one-tenth of my gross income to God since my second year of seminary. We have never been without and have always been able to give. Fundraising solves problems that money by itself cannot solve. Fundraising is community development. And most important of all, fundraising is testimony. In testifying to this, I claim no special skill or ability. Though in my parents' minds, I may be _able_, we all know I cannot do anything apart from God. I simply ask for direction and carry out orders. I testify to my mom and dad, brother and sister-in-law, relatives, friends, church, and people who were once strangers. I testify to God's sovereign power and limitless abundance. I know I'm in good company, preaching to the choir, but with God behind me, I cannot fail. All to his glory.
 
 May your own testimony and work with Wycliffe reflect God's glory. May God's abundance allow you to be generous in every situation. May people see your work, hear your testimony, and worship God for his sacrifice on the cross. God's peace to you and yours. Thank you for allowing me to testify. 
-
 
