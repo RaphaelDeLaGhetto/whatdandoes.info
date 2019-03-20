@@ -12,6 +12,8 @@ date: 2019-03-19 21:27:06
 
 {% asset_img calgary-from-nose-hill.jpg Downtown Calgary from Nose Hill %}
 
+<!-- more -->
+
 My name is Daniel Bidulock. I was born in Calgary and raised in what I call the _nostril of Nose Hill_... 14th Street NW. You can see the road that takes me to my childhood home through the second floor Wycliffe window. I grew up in a non-Christian home with my mom, dad, and younger brother. We didn't go to church, even on Christmas and Easter.
 
 As a child, I had every advantage. I lived in a loving, stable home. We went to school, played hockey, travelled... my mom built a long-standing career in seismic processing for oil and gas exploration. My dad taught Computer Science at the University of Calgary. Growing up I spent a lot of time on campus. It's changed a lot, but the UofC still feels like home.
