@@ -1,10 +1,12 @@
 ---
 title: Partnership Development is Testimony
 tags:
-- speaking
-- testimony
-- pd
+  - speaking
+  - testimony
+  - pd
+date: 2019-03-19 21:27:06
 ---
+
 
 # Wycliffe Intermission - March 20, 2019
 
