@@ -1,9 +1,11 @@
 ---
 title: We are all Missionaries
 tags:
-- conference
-- speaking
+  - conference
+  - speaking
+date: 2019-03-23 00:50:04
 ---
+
 
 # Lutheran Missions Fest, 2019
 
