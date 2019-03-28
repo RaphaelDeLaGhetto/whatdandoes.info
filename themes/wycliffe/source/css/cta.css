@@ -17,11 +17,12 @@
 }
 
 .cta .btn {
-  background: orange;
+  background: #ffaa00;
   margin: auto;
   color: black;
   border: 3px solid black;
-  font-weight: bold;
+  font-weight: 100;
+  font-size: 1.75rem;
   border-radius: .5rem;
 }
 

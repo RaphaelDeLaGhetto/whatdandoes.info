@@ -14,7 +14,7 @@ body {
   font-family: 'Work Sans', sans-serif;
   color: rgba(0,0,0,.75);
   font-size: 1.1rem;
-  background-color: #f8f8f8;
+  background-color: #efefef;
 }
 
 a {
@@ -45,7 +45,7 @@ h2 {
 }
 
 main article {
-  background-color: #fffcd4;
+  background-color: #ffffff;
   padding: 0 1.1rem 1.1rem 1.1rem;
 }
 

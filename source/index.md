@@ -5,6 +5,7 @@ nosidebar: true
 hero: true
 ---
 
+
 ### Over 2000 haven't a single verse of Scripture.
 
 Many of these languages can't even be written down.
