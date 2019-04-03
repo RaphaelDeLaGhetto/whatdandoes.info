@@ -1,9 +1,11 @@
 ---
 title: The Time is Now
 tags:
-- speaking
-- breakfast
+  - speaking
+  - breakfast
+date: 2019-03-30 03:19:44
 ---
+
 
 # Ascension Lutheran Men's Breakfast, March 30
 
