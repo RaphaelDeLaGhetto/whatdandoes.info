@@ -27,8 +27,13 @@
 }
 
 .cta .btn:hover {
-  background-color: green;
-  box-shadow: 0px 0px 15px 2px black;
+  background-color: rgba(255,170,0,.25);
+  transition: .3s;
+  border-color: orange;
+  font-weight: 100;
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
 }
 
 .cta a {
@@ -46,6 +51,6 @@ header + .cta {
   }
 
   .cta .btn {
-    width: 50%;
+    width: 75%;
   }
 }

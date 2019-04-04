@@ -18,7 +18,7 @@ body {
 }
 
 a {
-  color: #2200CC;
+  color: #000;
   text-decoration: none;
 }
 
@@ -64,7 +64,8 @@ body > footer a:hover {
 }
 
 article {
-  margin-bottom: 3em;
+  margin-top: 1em;
+  margin-bottom: 2em;
   border-radius: 0;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
@@ -88,13 +89,12 @@ footer nav blockquote footer cite {
   float: right;
 }
 
-.socialmedia{
-  float: left;
-  width: 5%;
-  margin-top: 3rem;
+.socialmedia {
+  width: 2em;
+  margin-top: 2rem;
   margin-bottom: 1rem;
-  margin-left: .5rem;
-  margin-right: .5rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 
@@ -146,7 +146,7 @@ video,
     font-size: 1.125rem;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 75%;
   }
 
   video,
@@ -175,7 +175,7 @@ video,
   width: 100%;
 }
 
-#creditcardgrid{
+#creditcardgrid {
   display: grid;
   grid-template-columns: 50% 50%;
   margin: 3rem auto;
@@ -184,21 +184,21 @@ video,
 }
 
 .country {
-  width: 100%;
+  width: 95%;
   margin: 0 auto;
   padding: 2rem;
-  background-color: #3399FF;
+  background-color: #ffa94d;
+  border-radius: 1rem;
+  border: 1px solid black;
   text-align: center;	
   font-size: 1.5rem;
 }
 
 #countryusa {
-  border-right: 1rem solid #fffcd4;
   text-decoration: none;
 }
 
 #countrycanada {
-  border-left: 1rem solid #fffcd4;
 }
 
 #or {
@@ -209,4 +209,12 @@ video,
   font-weight: 100;
   border-bottom: 2px solid black;
   padding-bottom: 5rem;
+}
+
+#socialicons {
+  float: left;
+}
+
+#socialicons a {
+  text-decoration: none;
 }
