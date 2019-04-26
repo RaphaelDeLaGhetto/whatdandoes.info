@@ -7,7 +7,7 @@ tags:
 
 ### Pastor Ed,
 
-A few weeks ago I shared my testimony and work with a prominent member of my church, [Saint Peter's Lutheran](http://saintpeters.ca/). It was an encouraging and informative meeting. This man, _Tim_, has since committed to supporting my work as a Bible translator. He is a dutiful and faithful servant of God. You know him as a member of [our denomination's national council, _CALC_](http://calc.ca/). Over the course of our conversation, he had many questions about how I had been engaging CALC. I suspect he already knew that I hadn't been, beyond attending our national convention this past October.
+A few weeks ago I shared my testimony and work with a prominent member of my church, [Saint Peter's Lutheran](http://saintpeters.ca/) in Cochrane. It was an encouraging and informative meeting. This man, _Tim_, has since committed to supporting my work as a Bible translator. Apart from this, he demonstrates what it means to be a dutiful and faithful servant of God. You know him as a member of [our denomination's national council, _CALC_](http://calc.ca/). Over the course of our conversation, he had many questions about how I had been engaging CALC. I suspect he already knew that I hadn't been, beyond attending our national convention this past October.
 
 He asked me about the people I met at the CALC convention and my participation there. Over the course of the weekend, I manned a [Wycliffe](https://www.wycliffe.ca/) exhibit, participated in workshops, and was even allowed to deliver my testimony before all the church leaders. I received prayer, much encouragement, and about $175 in cheques and free-will offerings. Many of those gathered were astounded that [Jack Chick](http://chick.com) Bible tracts played any role in me submitting my life to Christ. It was a great weekend overall, especially since it allowed my family to spend time with close friends who live in a town nearby.
 
@@ -35,11 +35,11 @@ I witnessed this trait in action during a recent support meeting with one of my 
 
 Likewise, our mutual friend Tim perceives a shortcoming in how CALC raises money for missionaries. I maintain that _it's not_ CALC's responsibility. Fundraising is hard work. It's made that much more difficult when there's any expectation that CALC will somehow _take care of it all_.
 
-That said, if collectivism is the force with which I am contending, maybe this is where I can help CALC. In doing so, CALC will be prepared for the next missionary raised up from within our midst (I pray God continues to do this). If only there was some way to eliminate all the _If onlies..._
+That said, if collectivism is the force with which I am contending, maybe this is where I can help CALC. My hope is to prepare CALC for the next missionary raised up from within our midst (let's all pray God continues to do this).
 
-### I propose an experiment.
+### If only there was some way to eliminate all the _If onlies..._
 
-The outcome of this experiment will make life easier for me and future missionaries raised up within CALC. One of two things will happend: either the collective church raises the cash and I start work, or it fails and we set the matter to rest once and for all. Fundraising will be made easier when individuals are no longer able to defer their responsibility in carrying out the Great Commission to the group.  
+I propose an experiment. The outcome of this experiment will make life easier for me and future missionaries raised up within CALC. One of two things will happend: either the collective church raises the cash and I start work, or it fails and we set the matter to rest once and for all. Fundraising will be made easier when individuals are no longer able to defer their responsibility in carrying out the Great Commission to the group.  
 
 Here are the nuts and bolts of my own ministry budget. I don't start my mission until I raise $120,000 per year. This is a modest and achievable goal. Expressed in other ways:
 
@@ -61,14 +61,11 @@ My approach to this experiment involves a new CALC-specific fundraising video an
 
 This is my suggestion. You may have your own. One pastor at last year's convention told me that Wycliffe's fundraising methods are _old fashioned_. I'm certainly open to learning CALC's modern approach.
 
-I hope that by proposing this experiment, whatever its outcome, that CALC will be prepared when God calls another missionary. Let's all pray that He does. If God turns His face, I'll still be here. CALC may not be.
+I hope that by proposing this experiment, whatever its outcome, that CALC will be prepared when God calls another missionary. In all this I maintain that God is my provider. As a missionary I have no right to expect support from anyone in particular, but I do have the right to ask. I have the right to ask people to pray and ask God if they should support me. It's hard to get people to sit down with me. Harder still when so many have not been discipled on matters of financial stewardship and individual accountability [Matthew 25:14-30](https://www.biblegateway.com/passage/?search=Matthew+25%3A14-30&version=NLT).
 
-God is my provider. As a missionary I have no right to expect support from any one person, but I do have the right to ask. I have the right to ask people to pray and ask God if they should support me. It's hard to get people to sit down with me. Harder still when so many have not been discipled on matters of financial stewardship and individual accountability.
+There comes a time in your Christian walk where you are so grateful that you would not approach God empty handed. May my proposal be received with joy. May it resolve the _If onlies_ that excuse inaction. May our missionaries, congregations, and families receive God's abundant blessing. May they grow and prosper. May others see God's blessings upon us and join in singing His praise.
 
-There comes a time in your Christian walk where you are so grateful that you would not approach God empty handed. May my offer of assistance be received with joy. May it resolve the _If onlies_ that excuse inaction. May our missionaries, congregations, and families receive God's abundant blessing. May they grow and prosper. May others see God's blessings upon us and join in singing His praise.
-
-
-### Peace,
+### God's peace,
 
 ### Daniel Bidulock M.Div., M.Sc.
 
