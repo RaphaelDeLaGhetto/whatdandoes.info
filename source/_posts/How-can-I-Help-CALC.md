@@ -1,9 +1,11 @@
 ---
 title: How can I help CALC?
 tags:
-- pd
-- calc
+  - pd
+  - calc
+date: 2019-05-06 09:42:32
 ---
+
 
 ### Pastor Ed,
 
