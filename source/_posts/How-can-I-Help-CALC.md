@@ -11,6 +11,8 @@ date: 2019-05-06 09:42:32
 
 A few weeks ago I shared my testimony and work with a prominent member of my church, [Saint Peter's Lutheran](http://saintpeters.ca/) in Cochrane. It was an encouraging and informative meeting. This man, _Tim_, has since committed to supporting my work as a Bible translator. Apart from this, he demonstrates what it means to be a dutiful and faithful servant of God. You know him as a member of [our denomination's national council, _CALC_](http://calc.ca/). Over the course of our conversation, he had many questions about how I had been engaging CALC. I suspect he already knew that I hadn't been, beyond attending our national convention this past October.
 
+<!-- more -->
+
 He asked me about the people I met at the CALC convention and my participation there. Over the course of the weekend, I manned a [Wycliffe](https://www.wycliffe.ca/) exhibit, participated in workshops, and was even allowed to deliver my testimony before all the church leaders. I received prayer, much encouragement, and about $175 in cheques and free-will offerings. Many of those gathered were astounded that [Jack Chick](http://chick.com) Bible tracts played any role in me submitting my life to Christ. It was a great weekend overall, especially since it allowed my family to spend time with close friends who live in a town nearby.
 
 Tim continued to ask pointed questions about CALC and if I had been engaging you, CALC's president. Tim then explained to me that CALC runs on a shoe-string budget and reviewed some deficiencies in the organization, wherein there is simply no mechanism in place to raise support for missionaries.
