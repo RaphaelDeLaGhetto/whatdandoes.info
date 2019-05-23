@@ -1,9 +1,11 @@
 ---
 title: A Survey of Privacy Techniques with Applications in Missions
 tags:
-- privacy
-- missions
+  - privacy
+  - missions
+date: 2019-05-23 00:03:43
 ---
+
 
 This post is motivated by the problems faced by missionaries in regions hostile to free, unsurveilled communication. By finding ways to circumvent this hostility we allow Kingdom-builders freedom in pursuing their missionary calls. In carrying out [the Great Commission](https://www.biblegateway.com/passage/?search=Matthew+28%3A16-20&version=NLT) this way, we open access to the Word of God and empower people through the freedom accompanied by anonymity and privacy. 
 

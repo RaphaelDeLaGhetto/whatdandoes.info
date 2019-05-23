@@ -6,7 +6,7 @@ services:
     environment:
       - VIRTUAL_HOST=whatdandoes.info
       - LETSENCRYPT_HOST=whatdandoes.info
-      - LETSENCRYPT_EMAIL=daniel@example.com
+      - LETSENCRYPT_EMAIL=daniel@capitolhill.ca
     expose:
       - 80
     volumes:
