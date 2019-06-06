@@ -9,6 +9,8 @@ tags:
 
 This post is motivated by the need to build relationships between self-funded missionaries and Lutheran churches within the [CALC](https://calc.ca) denomination. A missionary seeking financial support within CALC is hindered by a lack of expectation and process. How does a missionary build relationships with a congregation? How do we engage and support a missionary raised up from within CALC? In laying out a tentative roadmap, I hope to help answer these questions.
 
+<!-- more -->
+
 ## Prayer
 
 Building relationships is closely akin to Kingdom Building. When God calls a missionary to service, the missionary trusts God to provide material necessities. In raising financial support, everything must be prayerfully directed. In building relationships with congregations, God will call those He has chosen to partner. Diligent prayer is to be assumed at every stop on the engagement roadmap.
@@ -41,7 +43,7 @@ I propose a two-week lead-up to any missionary church visit. During service, on 
 
 #### Example:
 
-{% youtube rwpV4CtgXBA %}
+{% youtube 8JXPUIFjXwo %}
 
 ### Bulletin Announcement
 
@@ -49,9 +51,8 @@ This may be done in lieu of, or in addition to a video introduction. This is esp
 
 #### Example:
 
-```
-Wycliffe missionary, Daniel Bidulock, will be joining us on ________ to share his testimony and call to Bible translation. Please ask God if you are called to invest in this exciting Kingdom-building opportunity.
-```
+
+> Wycliffe missionary, Daniel Bidulock, will be joining us on August 18 to share his testimony and call to Bible translation. Please ask God if you are called to invest in this exciting Kingdom-building opportunity.
 
 ### Sanctuary Screen Announcement
 
@@ -73,14 +74,13 @@ If practical, brochures might be inserted into Sunday bulletins during the two-w
 
 #### Corporate Prayer
 
-Once the missionary has shared his work and testimony it is essential that someone else leads the congregation in prayer. Ideally this should be the church leader to whom the missionary was first introduced, though the pastor or other person of influence is also good... just so long as there is prayer. The language of the prayer must be carefully considered. Depending on the sending agency, the missionary may not be able to start work until his financial support is proven 100% sustainable. Communicating immediacy and urgency is the difference between `If you're interested, talk to Dan after service` and `Ask God _now_ if you are called to join in this work`.
+Once the missionary has shared his work and testimony it is essential that someone else leads the congregation in prayer. Ideally this should be the church leader to whom the missionary was first introduced, though the pastor or other person of influence is also good... just so long as there is prayer. The language of the prayer must be carefully considered. Depending on the sending agency, the missionary may not be able to start work until his financial support is proven 100% sustainable. Communicating immediacy and urgency is the difference between _If you're interested, talk to Dan after service_ and _Ask God_ **now** _if you are called to join in this work_.
 
 ##### Example
 
-```
-In your bulletins you'll find a brochure and an offering envelope. Please hold these in your hand and bow with me in prayer...
-
-God, thank you for this opportunity to invest in your Kingdom-building work around the world. Please direct our hearts and minds toward your purpose. Let our generosity do the work that money by itself cannot carry out. Let us join Dan in changing lives by publishing your Good News to the world. Who here is called today?
+> In your bulletins you'll find a brochure and an offering envelope. Please hold these in your hand and bow with me in prayer...
+>
+> God, thank you for this opportunity to invest in your Kingdom-building work around the world. Please direct our hearts and minds toward your purpose. Let our generosity do the work that money by itself cannot carry out. Let us join Dan in changing lives by publishing your Good News to the world. Who here is called today?
 
 ### More Prayer
 
@@ -91,7 +91,7 @@ As will all things, financing a mission is in God's hands. In the days and weeks
 
 ### Distance
 
-Given the distance between CALC churches, it may not be feasible for a missionary to visit each one in person. There may be other options open to someone invited to share mission and testimony, but this would depend on the technical prowess of each church. While most would likely be able to play an informational video, setting up a video conference may present more of a challenge.
+Given the distance between CALC churches, it may not be feasible for a missionary to visit each one in person. There may be other options open to someone invited to share mission and testimony, but this would depend on the technical capacity of each church. While most would likely be able to play an informational video, setting up a video conference may present more of a challenge.
 
 ### Identifying Individual Supporters in Advance
 
@@ -113,9 +113,9 @@ From top to bottom while covered in prayer, this is the proposed congregation en
 6. Someone other than the missionary will lead the congregation in prayer
 7. More prayer
 
-This is a tentative roadmap. My hope is that by starting the discussion in this way, CALC will be prepared to support the next generation of missionary raised from within.
+Here ends my tentative roadmap. My hope is that by starting the discussion in this way, CALC will be prepared to support the next generation of missionary raised from within.
 
 ### God's peace,
 
-## Dan 
+### Dan 
 
