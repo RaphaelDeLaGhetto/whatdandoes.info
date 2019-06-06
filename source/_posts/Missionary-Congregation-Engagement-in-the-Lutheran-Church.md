@@ -1,11 +1,13 @@
 ---
 title: Missionary-Congregation Engagement in the Lutheran Church
 tags:
-- lutheran
-- missions
-- finance
-- calc
+  - lutheran
+  - missions
+  - finance
+  - calc
+date: 2019-06-06 14:43:15
 ---
+
 
 This post is motivated by the need to build relationships between self-funded missionaries and Lutheran churches within the [CALC](https://calc.ca) denomination. A missionary seeking financial support within CALC is hindered by a lack of expectation and process. How does a missionary build relationships with a congregation? How do we engage and support a missionary raised up from within CALC? In laying out a tentative roadmap, I hope to help answer these questions.
 
