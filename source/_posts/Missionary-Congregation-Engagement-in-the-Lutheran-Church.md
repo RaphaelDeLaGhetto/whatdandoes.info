@@ -41,7 +41,7 @@ In addressing the two _Basic Questions_ presented above, there are at least two 
 
 ### Video Introduction
 
-I propose a two-week lead-up to any missionary church visit. During service, on the two Sunday's prior, a short promotional video will be played. Pre-announcing a visit in this way serves to answer the question of _Who exactly is this missionary?_ When the missionary does come to speak to the church, his visit will be expected and the congregation will have already been invited to prayerfully consider support.
+I propose a two-week lead-up to any missionary church visit. During service, on the two Sundays prior, a short promotional video will be played. Pre-announcing a visit in this way serves to answer the question of _Who exactly is this missionary?_ When the missionary does come to speak to the church, his visit will be expected and the congregation will have already been invited to prayerfully consider support.
 
 #### Example:
 
@@ -66,7 +66,7 @@ _Coming soon..._
 
 ### The Church Visit
 
-Timing and placement within the overall service is a future point of discussion. With a ten minute presentation (for example), the missionary is given the opportunity to make a more robust self-introduction. The manner in which a missionary's work and testimony are presented are beyond the scope of this roadmap, though I would expect an audio-visual element where such ammenities are available. Slideshows and more video content are examples of these elements.
+Timing and placement within the overall service is a future point of discussion. With a ten minute presentation (for example), the missionary is given the opportunity to make a more robust self-introduction. The manner in which a missionary's work and testimony are presented are beyond the scope of this roadmap, though I would expect an audio-visual element where such amenities are available. Slideshows and more video content are examples of these elements.
 
 #### Promotional Material
 
