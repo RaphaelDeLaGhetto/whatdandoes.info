@@ -55,7 +55,7 @@ My home church shows announcement slides on the sanctuary screens before service
 
 #### Example:
 
-_Coming soon..._
+{% asset_img church-visit-slide-promo.jpg %}
 
 ### The Church Visit
 
