@@ -8,32 +8,25 @@ tags:
 date: 2019-06-06 14:43:15
 ---
 
-
-This post is motivated by the need to build relationships between self-funded missionaries and Lutheran churches within the [CALC](https://calc.ca) denomination. A missionary seeking financial support within CALC is hindered by a lack of expectation and process. How does a missionary build relationships with a congregation? How do we engage and support a missionary raised up from within CALC? In laying out a tentative roadmap, I hope to help answer these questions.
+This post is motivated by the need to build relationships between self-funded missionaries and Lutheran churches within the [CALC](https://calc.ca) denomination. How does a missionary build relationships with a congregation? How do we engage and support a missionary raised up from within CALC? In laying out a tentative roadmap, I hope to help answer these questions.
 
 <!-- more -->
 
 ## Prayer
 
-Building relationships is closely akin to Kingdom Building. When God calls a missionary to service, the missionary trusts God to provide material necessities. In raising financial support, everything must be prayerfully directed. In building relationships with congregations, God will call those He has chosen to partner. Diligent prayer is to be assumed at every stop on the engagement roadmap.
+Building relationships is closely akin to Kingdom building. When God calls a missionary to service, the missionary trusts God to provide material necessities. In raising financial support, everything must be prayerfully directed. In building relationships with congregations, God will call those He has chosen to partner. Diligent prayer is to be assumed at every stop on the engagement roadmap.
 
-## Basic Questions
+## Getting Invited to Church
 
-There are at least two fundamental questions that need to be answered before the thoughtful individual will turn to prayer in discerning a call to support a particular missionary. These are simply, _Who is this missionary, and why is his work important?_
+Relationship-building with a church begins with its leadership. A missionary seeking to engage a congregation requires an invitation to do so. Every church leader will have at least two questions before extending an invite. These are simply,
 
-### Who is this missionary?
+### _Who is this missionary, and why is the work important?_
 
-It is likely that a missionary has little personal reach beyond his home congregation. Though he may be heavily involved in service and ministry, any reputation or influence garnered by such involvement may not carry weight between congregations, especially when separated by distance. A missionary must be introduced to a new congregation by someone known and respected. This may be a pastor, councillor, or some other leader. Whatever role this leader plays, she must first be introduced to the work.
-
-Relationship-building with a congregation begins with its leadership. This begins with the missionary being allowed to share testimony and the purpose of the work to which he is called.
-
-### Why is the mission important?
-
-Having built relationship and credibility with a church leader, the missionary needs to share with those who may be called to support him (i.e., the congregation). This could happen in a number of ways, though being allowed to speak during Sunday service seems natural if distance is not a factor. Whatever the mode of communication, this is the missionary's opportunity to demonstrate the value and impact of his work. This prepares the congregation to ask God if they are called to join the missionary in the Kingdom-building opportunity presented to them.
+It is likely that a missionary has little personal reach beyond his home congregation. Though he may be heavily involved in service and ministry, any reputation or influence garnered by such involvement may not carry weight between congregations, especially when separated by distance. A missionary must be introduced to a new congregation by someone known and respected. This may be a pastor, councillor, or some other leader. Whatever role this leader plays, she must first be introduced to the work. This begins with the missionary being allowed to share testimony and the purpose of the work to which he is called over the phone or in person.
 
 ## Roadmap
 
-In addressing the two _Basic Questions_ presented above, there are at least two factors to consider. This tentative roadmap seeks to address these:
+Having satisfied the questions naturally posed by church leadership, the missionary is allowed to engage the congregation. There are at least two factors to consider. This tentative roadmap seeks to address these:
 
 - How do we announce a visiting missionary in advance to ensure key people are present?
   - _Key people_ include church leaders and individual families with a heart for missions.
@@ -66,7 +59,15 @@ _Coming soon..._
 
 ### The Church Visit
 
-Timing and placement within the overall service is a future point of discussion. With a ten minute presentation (for example), the missionary is given the opportunity to make a more robust self-introduction. The manner in which a missionary's work and testimony are presented are beyond the scope of this roadmap, though I would expect an audio-visual element where such amenities are available. Slideshows and more video content are examples of these elements.
+Timing and placement within the overall service is a future point of discussion. With a ten minute slideshow or video presentation (for example), the missionary is given the opportunity to make a more robust self-introduction and answer two more questions that will naturally arise during the introduction period:
+
+##### 1. Why is this particular ministry important?
+
+Or, how does a congregation or individual assess the value of a particular ministry? In engaging a congregation, the missionary will articulate the Spirtual impact of his work, the holistic benefits, and the desires of the beneficiary group. It is wise to anticipate and address future questions of who is collaborating in this ministry and how progress is measured. Also, how does this ministry align with missions priorities identified by CALC?
+
+##### 2. What is this missionary doing to help accomplish the ministry?
+
+This is related to the question of _Who is this missionary?_ Here the missionary will affirm that he is well-suited to the work to which he has been called. The particulars of what this missionary will actually do may change over time. This provides an excellent opportunity to promote an avenue through which people and churches can get updates on the what they are doing. Perhaps a newsletter signup, Website, or social media channels.
 
 #### Promotional Material
 
