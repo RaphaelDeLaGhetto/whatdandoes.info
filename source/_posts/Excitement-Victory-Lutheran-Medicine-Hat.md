@@ -1,9 +1,11 @@
 ---
 title: 'Excitement - Victory Lutheran, Medicine Hat'
 tags:
-- speaking
-- pd
+  - speaking
+  - pd
+date: 2019-08-18 00:02:43
 ---
+
 
 {% youtube 3L7k9JH_imo %}
 
