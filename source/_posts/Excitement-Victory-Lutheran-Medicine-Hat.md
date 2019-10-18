@@ -1,8 +1,9 @@
 ---
 title: 'Excitement - Victory Lutheran, Medicine Hat'
 tags:
-- speaking
-- pd
+  - speaking
+  - pd
+date: 2019-08-18 00:02:43
 ---
 
 {% youtube 3L7k9JH_imo %}
@@ -10,6 +11,8 @@ tags:
 ## What's Wycliffe?
 
 When my supervisor first joined Wycliffe many years ago, she said they used to call us "Canada's best kept secret". I asked one potential supporter what he knew about Wycliffe and he said he thought we were a "print shop"... that we print paper Bibles. Like Gideons, perhaps.
+
+<!-- more -->
 
 That person didn't know that Wycliffe:
 
