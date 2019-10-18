@@ -41,24 +41,23 @@ I have lots of _funny_ stories. My prayer is still to be an encourager, but I ne
 
 This is not an uncommon attitude. Individual Lutherans are deferring their personal responsibility to the collective. This is a destructive and dishonest attitude. Do I also _give through the church_ in this way? My tithes to Saint Peter's alone were $4,252 in 2018. Apparently, all those who _give through the church_ are the ones responsible for the remaining $748 in Saint Peter's generous gift. Apart from our home church, my family supports two additional missionaries. Not to mention the freewill offerings that don't get included on our tax return.
 
-Here's another one that makes me angry... come to our church on any Sunday. You'll spot quite a few high-end luxury autos in the parking lot. If you come in the winter, you'll notice fewer cars because so many people are spending a few months some place warm. The advice I receive from some of these people: _You should talk to CALC_. 
+Not that I'm bragging, because I'm only being obedient. Our savings match our generosity. My family needs a vehicle that can seat at least six. We have no intention of financing. Godly stewardship has rewards and cash buys options.
 
-I have _talked to CALC_, and I have no expectation of any sort of assistance. CALC cannot help me. CALC is a problem for me. CALC is a way for people to defer their personal responsibility to the group. Come talk to me if you want to have a candid conversation about this. All lines are open and your interest will be received with joy. We all need to start talking.
+Here's a prayer I hear often in missions-minded circles: _Please send us more workers for the harvest_. We have plenty of workers. Last year I learned that we were expecting nine new graduating seminarians. How many this year? Where are they going to serve? God has provided plenty of workers. Our prayer needs to change... we need to ask, _God, how should I invest in building your Kingdom?_
 
-Here's a prayer I hear often in missions-minded prayer circles: _Please send us more workers for the harvest_. We have plenty of workers. Last year I learned that we were expecting nine new graduating seminarians. How many this year? Where are they going to serve? God has provided plenty of workers. Our prayer needs to change... we need to ask, _God, how should I invest in building your Kingdom?_
+Know I mean no offense, but here's another thing people say that frustrates me:  _You should talk to CALC_. 
 
-Here's one more one-liner I hear bandied about... _liberal Lutherans aren't interested in missions_. Funny, but not _ha ha_ funny.
+CALC cannot help me. CALC is not designed for this. I have _talked to CALC_, and have no expectation of any sort of assistance. In a way, CALC itself is a problem for me. There are two sides this. On one side you have people with a sincere expectation that CALC can support me in some way. On the other side, it's just another way for people to defer their personal responsibility to the group. Let me ease this burden. Supporting me is not CALC's job. Let's start talking about this. All lines are open and your interest will be received with joy. 
 
-I am thankful for being allowed to speak to you today. My prayer from when I started remains the same. Be encouraged. You may think it incredible, but I've never been discouraged. My call is clear and I've had no doubt that God would provide. Be encouraged that despite the challenges I've faced, Saint Peter's has many generous individuals and families. The support I receive goes beyond the financial. I am blessed with the burden of sending many Thank You cards this Christmas. My supporters at Saint Pete's understand that what I bring is an opportunity to be blessed. They understand that the work of Wycliffe and SIL International requires generosity. They understand that obedience to The Great Commission builds a better world today and records their contribution in eternity. They like to give to me directly, becuase they know exactly where their money is going, and exactly the impact it's having. Let God give use more opportunities like this.
 
-Be encouraged that I bring this opportunity to you and everyone in your church. All lines are open. Come talk to me. Let's figure out how we can build your congregation and prepare it for when He raises up new missionaries from among you. Let's all ask God how we can invest our money in His work. And let's all be obedient to His call. God, how can we teach our congregations - and our children, most importantly - how to steward your resources and build your church and share your Good News. Let us know your limitless abundance and let our generosity reflect this. Let our families and lives reflect your glory knowing that money will never run out. It's only our time on this earth that is limited. Let us make best use of what we've been given so that You will give us even more when You return (Matthew 25:14-30). In Jesus' name, amen.
+I am thankful for being allowed to speak to you today. My prayer from when I started remains the same. Be encouraged. You may think it incredible, but I've never been discouraged. My call is clear and I've had no doubt that God would provide. Be encouraged that despite the challenges I've faced, Saint Peter's has many generous individuals and families. The support I receive goes beyond the financial. I am blessed with the burden of sending many Thank You cards this Christmas. My supporters at Saint Pete's understand that what I bring is an opportunity to be blessed. They understand that the work of Wycliffe and SIL International requires generosity. They understand that obedience to The Great Commission builds a better world today and records their contribution in eternity. They like to give to me directly, because they know exactly where their money is going, and exactly the impact it's having. Let God give use more opportunities like this.
 
-God's peace,
+I suspect that many of my supporters enjoy a savings account that mirrors their generosity.
+
+Be encouraged that I bring this opportunity to you and everyone in your church. All lines are open. Come talk to me. If you get too close, I'm definitely going to talk to you. Let's figure out how we can build your congregation and prepare it for when He raises up new missionaries from among you. Let's all ask God how we can invest our money in His work. And let's all be obedient to His call. God, how can we teach our congregations - and our children, most importantly - how to steward your resources and share your Good News. Let us know your limitless abundance and let our generosity reflect this. Let our families and lives reflect your glory knowing that money will never run out. It's only our time on this earth that is limited. Let us make best use of what we've been given so that You will give us even more when You return (Matthew 25:14-30). In Jesus' name, amen.
+
+Peace be with you,
 
 Dan
-
-
-
-
 
 
