@@ -1,11 +1,13 @@
 ---
 title: 'Fundraising Hits and Misses - CALC Conference, 2019'
 tags:
-- CALC
-- Lutheran
-- PD
-- 2019
+  - CALC
+  - Lutheran
+  - PD
+  - 2019
+date: 2019-10-18 20:46:24
 ---
+
 
 I'm thankful to be speaking to you today. One of my most common prayers before work, or even when just meeting with friends, is that I'll provide encouragement by the time we part ways. Let it be so here, today. I ask this in Christ's name.
 
