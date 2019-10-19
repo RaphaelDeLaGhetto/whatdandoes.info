@@ -58,8 +58,6 @@ I suspect that many of my supporters enjoy a savings account that mirrors their 
 
 Be encouraged that I bring this opportunity to you and everyone in your church. All lines are open. Come talk to me. If you get too close, I'm definitely going to talk to you. Let's figure out how we can build your congregation and prepare it for when He raises up new missionaries from among you. Let's all ask God how we can invest our money in His work. And let's all be obedient to His call. God, how can we teach our congregations - and our children, most importantly - how to steward your resources and share your Good News. Let us know your limitless abundance and let our generosity reflect this. Let our families and lives reflect your glory knowing that money will never run out. It's only our time on this earth that is limited. Let us make best use of what we've been given so that You will give us even more when You return (Matthew 25:14-30). In Jesus' name, amen.
 
-Peace be with you,
+### Peace be with you,
 
-Dan
-
-
+### Dan
