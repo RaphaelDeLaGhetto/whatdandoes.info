@@ -8,10 +8,11 @@ tags:
 date: 2019-10-18 20:46:24
 ---
 
-
 I'm thankful to be speaking to you today. One of my most common prayers before work, or even when just meeting with friends, is that I'll provide encouragement by the time we part ways. Let it be so here, today. I ask this in Christ's name.
 
 I had the privilege of sharing some brief testimony at last year's conference. If we haven't met, my name is Daniel Bidulock. I'm a Wycliffe Bible Translator and Language Software Developer for SIL International. I came last year looking for people to finance my mission. I will always need new financial supporters, but am happy to report that for the next six months, I am receiving a full salary and have been released to my missionary assignment. Even if it's only temporary, this is a great joy.
+
+<!-- more -->
 
 Lots of people have heard about Wycliffe Bible Translators. Fewer have heard of SIL International. SIL was founded in 1934 by a man named Cameron Townsend. Roughly eight years later, in 1942, that same man founded Wycliffe. SIL International are leaders in language software. We provide the tools of literacy no one else does. When a language can't be written down, we create the alphabet. For these new writing systems we create physical and onscreen keyboards. We create literacy apps to teach people to read. We also provide many translation tools used by the Lutheran Bible Translators.
 
