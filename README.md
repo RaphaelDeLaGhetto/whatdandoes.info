@@ -12,19 +12,19 @@ npm install
 # Build static static
 
 ```
-./node_modules/hexo/bin/hexo generate
+npx hexo generate
 ```
 
 # Create new post
 
 ```
-./node_modules/hexo/bin/hexo new post "Post title"
+npx hexo new post "Post title"
 ```
 
 # Development server
 
 ```
-./node_modules/hexo/bin/hexo s -p 3001
+npx hexo s -p 3001
 ```
 
 # Production
@@ -33,7 +33,7 @@ This is meant to be deployed behind a Dockerized `nginx-proxy`/`letsencrypt-ngin
 
 ```
 npm install
-./node_modules/hexo/bin/hexo generate
+npx hexo generate
 docker-compose up -d
 ```
 
