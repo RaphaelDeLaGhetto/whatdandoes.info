@@ -1,5 +1,5 @@
 ---
-title: Who do I serve?
+title: Whom do I serve?
 tags:
 - Danish Lutheran Church
 - Shrove Tuesday
