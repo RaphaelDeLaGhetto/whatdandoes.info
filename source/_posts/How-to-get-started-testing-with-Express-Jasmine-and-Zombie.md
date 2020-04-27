@@ -166,17 +166,17 @@ describe('the landing page', () => {
    * and `zombie` to ensure it's doing what you
    * expect.
    *
-   * In this case, I just want to make sure a 
+   * In this case, I just want to make sure a
    * page title is displayed.
    */
   it('displays the page title', () => {
-    browser.assert.text('h1', 'Friendly Greeting Generator'); 
+    browser.assert.text('h1', 'Friendly Greeting Generator');
   });
 
   /**
    * Put future tests here...
    */
-  
+
   // ...
 });
 ```
@@ -242,7 +242,7 @@ router.get('/', function(req, res, next) {
   //res.render('index', { title: 'Express' });
 
   // The new test-friendly command
-  //res.render('index', { title: 'The Friendly Greeting Generator' });
+  res.render('index', { title: 'The Friendly Greeting Generator' });
 });
 
 module.exports = router;
@@ -296,8 +296,8 @@ Using this _user story_ as a guide, you can proceed writing your tests. So far, 
   // Add these below our first test in `indexSpec.js`
 
   it('renders an input form', () => {
-    browser.assert.element('input[type=text]'); 
-    browser.assert.element('input[type=submit]'); 
+    browser.assert.element('input[type=text]');
+    browser.assert.element('input[type=submit]');
   });
 
   it('returns a friendly greeting if you enter your name and press Submit', done => {
@@ -359,7 +359,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.post('/', function(req, res, next) {
-    
+
   let message = 'Whatevs...'
   if (req.body.name.length) {
 
