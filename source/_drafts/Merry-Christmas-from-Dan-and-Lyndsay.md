@@ -48,7 +48,6 @@ All faithful believers understand that _generosity_ is at the heart of Christmas
 
 With your generosity, every box will contain an **X** and I'll be able to start work in February. 
 
-{% donorGrid() %}
 
 We are excited, but have a long way to go.
 
