@@ -9,10 +9,15 @@
   src: url('./iconfonts/iconfont.eot?#iefix') format('embedded-opentype'),
     url('./iconfonts/iconfont.woff') format('woff'),
     url('./iconfonts/iconfont.ttf') format('truetype'),
-    url('./iconfonts/iconfont.svg#iconfont') format('svg')
+    url('./iconfonts/iconfont.svg#iconfont') format('svg');
 }
 
-
+// 2020-5-4 - YouTube, added by me
+@font-face {
+  font-family: 'iconfont';
+  src: url("./iconfonts/youtube/icofont.woff2") format("woff2"),
+       url("./iconfonts/youtube/icofont.woff") format("woff");
+}
 
 
 .iconfont {
@@ -21,6 +26,12 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+
+// 2020-5-4 - added by me
+.icon-youtube:before {
+  content: "\ecbb";
 }
 
 .icon-Zhihu:before {
