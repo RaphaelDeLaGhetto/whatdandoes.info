@@ -26,6 +26,7 @@ menu:
 #  tags: tags
   about: about
 #  search: search
+# ^-- if I need this, check `src/scripts/main.js`
 
 
 # site title
