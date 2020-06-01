@@ -9,7 +9,7 @@ tags:
   - css
 ---
 
-My buddy Dawson came back with some awesome questions a couple of weeks ago. He is brand new to writing software for the web and interested in learning a test-driven driven approach. He started [a new project](https://github.com/davyLSDev/transposer) but got hung up on writing some basic interface tests on his landing page. Upon closer inspection, it became clear he needed some direction in learning about [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors).
+My buddy Dawson came back with some awesome questions a couple of weeks ago. He is brand new to writing software for the web and interested in learning a test-driven approach. He started [a new project](https://github.com/davyLSDev/transposer) but got hung up on writing some basic interface tests on his landing page. Upon closer inspection, it became clear he needed some direction in learning about [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors).
 
 <!-- more -->
 
@@ -76,7 +76,7 @@ it('displays the transposer icon', () => {
 });
 ```
 
-This test isn't _wrong_ - it will pass - but it doesn't really describe what you're testing to the reader. I think the following is better, if only because it is more precise in describing what you are testing (i.e., an image with ID attribute `icon`):
+This test isn't _wrong_ - it will pass - but it doesn't really describe what you're testing to the reader. I think the following is more descriptive and self explanatory (i.e., I'm selecting an image with ID attribute `icon`):
 
 ```
 it('displays the transposer icon', () => {
@@ -84,7 +84,7 @@ it('displays the transposer icon', () => {
 });
 ```
 
-HTML and CSS are deceptively simple. I doubt anyone could agree on the _correct way_ to structure a document and apply styles. I generally favour establishing specificity through the nesting of [semantic tags](https://www.freecodecamp.org/news/semantic-html5-elements/) over managing unique CSS IDs and classes (class names are the _second_ most specific selector, FYI). Not only will this change your approach to testing, it will likely lead to a well-structured and easily understood document.
+HTML and CSS are deceptively simple. I doubt anyone could convince everyone as to the _correct way_ to structure a document and apply styles. I generally favour establishing specificity through the nesting of [semantic tags](https://www.freecodecamp.org/news/semantic-html5-elements/) over managing unique CSS IDs and classes (class names are the _second_ most specific selector, FYI). Not only will this change your approach to testing, it will likely lead to a well-structured and easily understood document.
 
 In Dawson's case, he's building a landing page for his app. He may decide to organize his logo or `#icon` in a page `header`, for example. I don't presume to suggest this is the _only_ way, but hopefully it invites consideration of how to best structure your documents so your CSS doesn't get too hairy:
 
