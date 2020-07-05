@@ -1,5 +1,5 @@
 ---
-title: 'Coronation EFC, July 5'
+title: Be Still in Your Hearts - Coronation EFC, July 5'
 tags:
 - pd
 - Coronation EFC
