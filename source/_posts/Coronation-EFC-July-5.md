@@ -1,10 +1,12 @@
 ---
-title: Be Still in Your Hearts - Coronation EFC, July 5'
+title: 'Be Still in Your Hearts - Coronation EFC, July 5'''
 tags:
-- pd
-- Coronation EFC
-- speaking
+  - pd
+  - Coronation EFC
+  - speaking
+date: 2020-07-05 14:34:56
 ---
+
 
 I first heard God's call to missionary service in January 2018. It came by way of another missionary Bible translator who had visited my church, Saint Peter's Lutheran in Cochrane. This call marked the end of many long years _wandering the desert_, so to speak. God had released me from my last call six years earlier. And though He was always with me, and I never stopped praying, He pretty much left me to my own devices. And so I sought to build my family's fortune as a high-tech entrepreneur.
 
